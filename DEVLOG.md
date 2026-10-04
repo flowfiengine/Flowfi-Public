@@ -2,6 +2,16 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-03 — Clearer LIVE context and research history
+
+We're making the current FlowFi experience easier to interpret. LIVE now communicates when its view is recent, delayed or historical more clearly, while the product description distinguishes today's discovery experience from features still being developed.
+
+We also expanded our recorded Results history using previously observed project data. The goal is a more transparent record of what FlowFi observed—not promises about future performance.
+
+**Looking ahead:** we're working toward a dedicated research workspace that keeps charts and project context together. A watch-only experience is part of that direction. Neither a new terminal nor trade execution is being announced as publicly available today.
+
+We will share approved product previews when they're ready. Feedback on clarity, research workflows and the discovery experience is welcome through GitHub Issues.
+
 ## 2026-10-03 — A stronger foundation for discovery
 
 Today we focused on improving the reliability of the LIVE experience and advancing the internal validation needed for future discovery features. We also continued refining how FlowFi can present attention and capital activity in a way that is understandable and useful.
