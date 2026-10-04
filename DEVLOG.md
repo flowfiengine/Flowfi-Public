@@ -2,6 +2,20 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+
+## 2026-10-04 — Solana Market Sphere and more useful LIVE context
+
+Our Solana-first LIVE experience now has a central **Solana Market Sphere** connected to projects with observed trading activity. Solid connections distinguish LIVE-validated projects, while dashed connections identify provisional Early Radar candidates. The connections come from real market observations and remain visible in a subdued form when the latest data is delayed or historical. They show **where trading activity has been observed**—not confirmed SOL transfers, net inflows or a prediction of price.
+
+**Free Capital Intelligence** now presents project-level primary-pair trading volume and available buy/sell **transaction counts** across rolling observation windows. Separate buy-dollar and sell-dollar totals are not established by those counts, so the interface does not invent them. We also made Early Radar substantially more compact without narrowing the experience, leaving more room for the LIVE Sphere, and aligned desktop and mobile project details.
+
+Owner-led acceptance has covered desktop and iPhone usability, the account and early-access journey, X account connection and campaign participation, and password recovery. These successes do **not** establish comprehensive automated social-data coverage. We continue to label missing or delayed information accurately and have not announced open external tester enrollment.
+
+**Up next:** a focused visual polish for the central Solana orb and its links. Link glow and emphasis are planned to respond to genuine observed trading activity, with LIVE-validated and Early Radar projects scaled separately. User-selected wallet tracking is a future advanced feature, not a requirement for Free Capital Intelligence.
+
+**Availability:** these are milestones in the evolving FlowFi web experience, not an announcement of trading execution, a public tester launch, fully live social coverage or verified directional capital flows.
+
+
 ## 2026-10-04 — Preparing a small tester release
 
 We continued release acceptance for the discovery experience, focusing on clearer project lookup, Early Radar selection and accurate presentation of available evidence. We also confirmed that a limited social-data ingestion test could save project-attributed observations. Because the initial sample was incomplete, we are refining its polling safeguards and keeping social coverage explicitly limited rather than describing it as continuous or comprehensive.
