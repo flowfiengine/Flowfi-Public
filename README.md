@@ -27,6 +27,10 @@ This repository is our **public development journal**. We publish selected, revi
 
 You can **Star** this repository to support the project or **Watch** it to follow new updates.
 
+## Latest development update
+
+On October 4, we completed routine web-framework security maintenance and advanced a chart-first research workspace in controlled Preview. The research experience is **not yet publicly released**; real-money trading and wallet funding are not available. Read the [latest development update](DEVLOG.md) for what changed and what comes next.
+
 ## Share your ideas
 
 [Join our first public discussion](https://github.com/flowfiengine/Flowfi-Public/issues/1) or open a GitHub Issue. Suggestions and product feedback are welcome. Please check [CONTRIBUTING.md](CONTRIBUTING.md) before posting. Never include credentials, private account details, recovery phrases, or sensitive wallet information.

@@ -8,6 +8,13 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - Improve clarity, responsiveness, and usability of LIVE discovery.
 - Make activity and momentum easier to interpret without overwhelming the user.
 
+## In controlled Preview — a clearer research experience
+
+- Refine a larger, chart-first, **read-only** workspace that keeps recorded observations and project information together.
+- Support research into both qualified LIVE projects and Early Radar candidates, with their different evidence and risk levels clearly distinguished.
+- Check usability across devices and ensure unavailable or historical information is labeled accurately.
+- **Status:** this work is not yet publicly released. Trading, orders and wallet funding are not enabled.
+
 ## Next — add more meaningful context
 
 - Explore clearer explanations of attention and market activity.
