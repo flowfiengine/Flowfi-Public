@@ -28,6 +28,12 @@ Imagine a visual space where projects are easier to explore and changing attenti
 
 After something catches your eye, the next step is understanding what is happening and how recent the available observations are. FlowFi aims to make that context easier to reach.
 
+### The Solana Market Sphere
+
+Our Solana-first LIVE experience connects the central Solana market hub to projects with recorded trading activity. Solid links distinguish LIVE-validated projects; dashed links indicate higher-risk Early Radar candidates. Activity strength can help guide exploration, but total trading volume is **not** proof of new capital entering a token, a direct SOL transfer, or guaranteed performance.
+
+The current interface keeps genuine recorded connections available when new observations are delayed. A future design pass will bring more visual depth to the center orb and let connection emphasis respond more clearly to observed activity. This is a planned visual improvement, not a new source of market or capital data.
+
 ### The bigger picture
 
 Attention, market activity, and capital context can tell different parts of a story. Our goal is to help people understand the distinctions without implying certainty or a guaranteed market outcome.
