@@ -9,9 +9,9 @@ FlowFi is building a visual discovery experience to help people explore emerging
 ## What we're building
 
 - **Attention Sphere:** an interactive way to explore projects and shifts in attention.
-- **LIVE discovery:** a clearer view of recent market activity and momentum.
-- **Capital context:** research and product development aimed at putting capital activity in context alongside attention.
-- **Accessible experience:** an interface designed with both desktop and mobile use in mind.
+- **Solana Market Sphere:** a central Solana hub linked to LIVE-validated and provisional Early Radar projects with observed trading activity.
+- **Free Capital Intelligence:** project-level trading volume and available buy/sell transaction counts, with honest coverage and freshness labels.
+- **Accessible discovery:** a compact Early Radar experience and consistent desktop and mobile project research.
 
 These are product directions, not a claim that every capability is publicly released. Features and scope may change as we learn.
 
@@ -29,7 +29,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-On October 4, we continued acceptance testing for a small early-tester release, improved discovery and project-selection behavior, and validated a limited project-attributed social-data sample. Social coverage remains incomplete, and release checks are still in progress. The chart-first research workspace remains **read-only**; trading and wallet funding are not available. Read the [latest development update](DEVLOG.md) for what changed and what comes next.
+On October 4, the Solana Market Sphere and a clearer Free Capital Intelligence experience advanced in the FlowFi web app. We also compacted Early Radar, refined the desktop/mobile experience, and completed owner-led account and competition acceptance. The next visual upgrade will strengthen the Solana orb and make connection intensity reflect genuine observed activity. Social-data coverage remains limited, and open external tester enrollment has **not** been announced. The chart-first research workspace remains **read-only**; trading and wallet funding are not available. Read the [latest development update](DEVLOG.md) for details.
 
 ## Share your ideas
 
