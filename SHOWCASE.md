@@ -1,0 +1,35 @@
+# Exploring FlowFi
+
+*A high-level, conceptual view of the FlowFi experience. This page is not a live dashboard, a technical architecture diagram, or a release announcement.*
+
+## The experience we're building
+
+FlowFi starts with a simple idea: following crypto shouldn't mean following dozens of disconnected screens. We want to help people notice where attention is shifting, explore the projects behind a change, and understand the available context.
+
+```mermaid
+flowchart LR
+    A["Notice a shift"] --> B["Explore the Attention Sphere"]
+    B --> C["See LIVE context"]
+    C --> D["Research the story"]
+    D --> E["Make your own judgment"]
+```
+
+### Attention Sphere
+
+Imagine a visual space where projects are easier to explore and changing attention is easier to notice. Our direction is a responsive, approachable experience designed around discovery—not an overwhelming wall of data.
+
+### LIVE context
+
+After something catches your eye, the next step is understanding what is happening and how recent the available observations are. FlowFi aims to make that context easier to reach.
+
+### The bigger picture
+
+Attention, market activity, and capital context can tell different parts of a story. Our goal is to help people understand the distinctions without implying certainty or a guaranteed market outcome.
+
+## Visual previews
+
+We will add the official FlowFi brand asset and carefully reviewed product imagery as reusable, public-ready files become available. Any concept artwork will be labeled **Concept illustration**; actual interface captures will be labeled **Product screenshot**. We do not present design concepts, mock metrics, or unreleased capabilities as live product evidence.
+
+Follow the [development log](DEVLOG.md) for approved public previews and [share your feedback](https://github.com/flowfiengine/Flowfi-Public/issues).
+
+© 2026 FlowFi. All rights reserved.
