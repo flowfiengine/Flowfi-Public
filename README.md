@@ -17,6 +17,8 @@ These are product directions, not a claim that every capability is publicly rele
 
 This repository is our **public development journal**. We publish selected, reviewed updates about product direction, visible milestones, and opportunities to provide feedback.
 
+- [The FlowFi vision](PRODUCT.md)
+- [Conceptual showcase](SHOWCASE.md)
 - [Public roadmap](ROADMAP.md)
 - [Development log](DEVLOG.md)
 - [Community feedback](CONTRIBUTING.md)
@@ -25,7 +27,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Share your ideas
 
-Suggestions and product feedback are welcome through GitHub Issues. Please check [CONTRIBUTING.md](CONTRIBUTING.md) before posting. Never include credentials, private account details, recovery phrases, or sensitive wallet information.
+[Join our first public discussion](https://github.com/flowfiengine/Flowfi-Public/issues/1) or open a GitHub Issue. Suggestions and product feedback are welcome. Please check [CONTRIBUTING.md](CONTRIBUTING.md) before posting. Never include credentials, private account details, recovery phrases, or sensitive wallet information.
 
 ## Public development, private technology
 
