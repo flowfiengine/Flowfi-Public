@@ -1,3 +1,5 @@
+<img src="assets/flowfi-mark.jpg" alt="FlowFi brand mark" width="88" height="88" />
+
 # FlowFi
 
 **See where crypto attention is moving.**
