@@ -2,6 +2,16 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-04 — Preparing a small tester release
+
+We continued release acceptance for the discovery experience, focusing on clearer project lookup, Early Radar selection and accurate presentation of available evidence. We also confirmed that a limited social-data ingestion test could save project-attributed observations. Because the initial sample was incomplete, we are refining its polling safeguards and keeping social coverage explicitly limited rather than describing it as continuous or comprehensive.
+
+The release review also covers mobile usability, interaction with the visual discovery experience, accessibility preferences and the full early-access signup journey. These checks are still underway; passing individual automated tests does not mean the complete tester release has been approved.
+
+**Availability:** this is a development update, not an announcement that external tester invitations have begun. The research workspace remains read-only, and FlowFi does not provide trading execution, wallet funding or guaranteed market signals.
+
+**Next:** finish release acceptance, verify evidence and freshness labels, and invite a small tester cohort only after the release criteria are met.
+
 ## 2026-10-04 — Security maintenance and a more useful research preview
 
 We completed a web-framework security maintenance upgrade and verified that the updated application passed its automated checks and deployment validation. Keeping the foundation current is an ongoing part of building a dependable discovery experience. This is a maintenance milestone, not a claim that any software is free of vulnerabilities.
