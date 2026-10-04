@@ -2,6 +2,10 @@
 
 *A high-level, conceptual view of the FlowFi experience. This page is not a live dashboard, a technical architecture diagram, or a release announcement.*
 
+![FlowFi Attention Sphere — concept illustration, not live product data](assets/attention-sphere-concept.svg)
+
+*Concept illustration — not a screenshot or a depiction of live data.*
+
 ## The experience we're building
 
 FlowFi starts with a simple idea: following crypto shouldn't mean following dozens of disconnected screens. We want to help people notice where attention is shifting, explore the projects behind a change, and understand the available context.
@@ -28,7 +32,7 @@ Attention, market activity, and capital context can tell different parts of a st
 
 ## Visual previews
 
-We will add the official FlowFi brand asset and carefully reviewed product imagery as reusable, public-ready files become available. Any concept artwork will be labeled **Concept illustration**; actual interface captures will be labeled **Product screenshot**. We do not present design concepts, mock metrics, or unreleased capabilities as live product evidence.
+The conceptual illustration above is original, illustrative artwork. We will add the official FlowFi brand asset and carefully reviewed actual product screenshots when reusable, public-ready files become available. Any concept artwork will be labeled **Concept illustration**; actual interface captures will be labeled **Product screenshot**. We do not present design concepts, mock metrics, or unreleased capabilities as live product evidence.
 
 Follow the [development log](DEVLOG.md) for approved public previews and [share your feedback](https://github.com/flowfiengine/Flowfi-Public/issues).
 
