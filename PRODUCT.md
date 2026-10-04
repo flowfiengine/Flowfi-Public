@@ -14,13 +14,13 @@ Instead of asking people to jump between disconnected screens, FlowFi aims to br
 
 An interactive way to explore projects and see how attention changes. The ambition is to turn discovery into something you can *see and explore*, rather than another wall of rankings.
 
-### LIVE discovery
+### Solana Market Sphere and LIVE discovery
 
-A view of recent activity and momentum intended to help users notice meaningful changes while understanding that fresh information can be incomplete or uncertain.
+Our Solana-first LIVE experience places a central Solana market hub among project orbs. Solid connections identify LIVE-validated projects with observed trading activity; dashed connections distinguish provisional Early Radar candidates. A link describes recorded activity, **not** money moving from Solana into a project. When observations are delayed, the experience can retain genuine recorded context with clear freshness information.
 
-### Capital context
+### Free Capital Intelligence
 
-An evolving product direction to make capital activity easier to interpret alongside attention. A burst of conversation and a shift in market activity aren't the same thing; understanding that distinction matters.
+Free Capital Intelligence brings project-level trading volume and available buy/sell transaction counts into the research experience. The initial view covers observed activity on a project's primary trading pair. Transaction counts and total volume are **not** evidence of separate buy-dollar or sell-dollar totals, net capital inflows, or activity on every venue. Individual wallet monitoring belongs to a later advanced experience rather than being required for Free discovery.
 
 ### Clearer explanations
 
@@ -36,7 +36,7 @@ We want to put observations in context, make uncertainty visible, and help peopl
 
 ## Where we are today
 
-FlowFi is in active development. We are refining the discovery experience and the reliability of the underlying product. Not every feature described here is publicly available. See the [roadmap](ROADMAP.md) for our directional priorities and the [public development log](DEVLOG.md) for selected updates.
+FlowFi is in active development. The Solana market visualization and project-level Capital context are deployed in the evolving web experience; visual polish, advanced wallet monitoring and broader market coverage are future work. Early-tester acceptance is progressing, but open external tester enrollment has not been announced. See the [roadmap](ROADMAP.md) for priorities and the [public development log](DEVLOG.md) for selected updates.
 
 ## Join the journey
 
