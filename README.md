@@ -1,4 +1,4 @@
-<img src="assets/flowfi-mark.jpg" alt="FlowFi brand mark" width="88" height="88" />
+<img src="assets/flowfi-mark-v2.webp" alt="FlowFi brand mark" width="96" height="96" />
 
 # FlowFi
 
