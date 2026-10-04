@@ -23,6 +23,8 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 ## Later — expand the experience thoughtfully
 
+- Explore a dedicated LIVE Sphere for each supported market, with a compact market selector and consistent navigation. Solana remains the initial focus; additional markets are future directions, not announced live coverage.
+- Explore an ecosystem-centered Capital Network that distinguishes verified directional activity from incomplete or unavailable evidence. Its visual connections must never imply measured capital transfers without supporting data.
 - Explore personalized discovery and helpful notifications.
 - Refine the experience across supported devices.
 - Consider additional public-facing views as the product matures.
