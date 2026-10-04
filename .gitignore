@@ -1,0 +1,19 @@
+# This is a documentation-only public repository.
+# These patterns are defense in depth, not a substitute for review.
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.log
+*.sqlite
+*.db
+.DS_Store
+node_modules/
+dist/
+build/
+coverage/
+.vercel/
+.next/
+*.zip
