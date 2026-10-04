@@ -29,7 +29,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-On October 4, we completed routine web-framework security maintenance and advanced a chart-first research workspace in controlled Preview. The research experience is **not yet publicly released**; real-money trading and wallet funding are not available. Read the [latest development update](DEVLOG.md) for what changed and what comes next.
+On October 4, we continued acceptance testing for a small early-tester release, improved discovery and project-selection behavior, and validated a limited project-attributed social-data sample. Social coverage remains incomplete, and release checks are still in progress. The chart-first research workspace remains **read-only**; trading and wallet funding are not available. Read the [latest development update](DEVLOG.md) for what changed and what comes next.
 
 ## Share your ideas
 
