@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+<title id="title">FlowFi — Attention Sphere concept illustration</title>
+<desc id="desc">Abstract connected orbs representing the FlowFi discovery journey. Concept illustration only, not actual application data or a product screenshot.</desc>
+<defs>
+<linearGradient id="bg" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#050917"/><stop offset=".62" stop-color="#0b1230"/><stop offset="1" stop-color="#160d36"/></linearGradient>
+<linearGradient id="c" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#2ce6f5"/><stop offset=".54" stop-color="#487cfb"/><stop offset="1" stop-color="#bd55ed"/></linearGradient>
+<linearGradient id="rim" x1="0" x2="1" y1="1" y2="0"><stop stop-color="#13e2fa"/><stop offset=".45" stop-color="#7772ff"/><stop offset="1" stop-color="#b856f8"/></linearGradient>
+<radialGradient id="orb"><stop stop-color="#7357da" stop-opacity=".48"/><stop offset=".68" stop-color="#191c61" stop-opacity=".44"/><stop offset="1" stop-color="#081533" stop-opacity=".08"/></radialGradient>
+<filter id="glow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="11"/></filter>
+<filter id="smallglow" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="4"/></filter>
+</defs>
+<rect width="1200" height="630" rx="22" fill="url(#bg)"/>
+<g fill="none" stroke="#6795dd" stroke-opacity=".09" stroke-width="1">
+<path d="M35 485Q600 80 1164 485M22 540Q600 175 1180 540M-20 596Q600 272 1230 596"/>
+<ellipse cx="730" cy="370" rx="390" ry="190" transform="rotate(-13 730 370)"/>
+</g>
+<g fill="none" stroke="url(#rim)" stroke-width="1.9" stroke-opacity=".58">
+<path d="M255 420C365 330 445 365 550 313"/><path d="M550 313C665 197 767 228 875 302"/><path d="M550 313C658 404 765 447 946 413"/><path d="M255 420C440 540 714 515 946 413"/>
+</g>
+<g stroke="#67dff6" stroke-width="1" stroke-opacity=".28">
+<path d="M238 397l12 32M854 289l20 22M932 398l11 26"/>
+</g>
+<g fill="#3bd9ff" opacity=".55">
+<circle cx="376" cy="357" r="3"/><circle cx="689" cy="270" r="3.5"/><circle cx="747" cy="442" r="3"/><circle cx="468" cy="493" r="2.5"/><circle cx="1080" cy="330" r="2.5"/>
+</g>
+<g>
+<circle cx="255" cy="420" r="77" fill="#12b8ed" opacity=".22" filter="url(#glow)"/>
+<circle cx="255" cy="420" r="55" fill="url(#orb)" stroke="#36d5f9" stroke-width="2" stroke-opacity=".86"/>
+<circle cx="550" cy="313" r="135" fill="#5b62ff" opacity=".25" filter="url(#glow)"/>
+<circle cx="550" cy="313" r="101" fill="url(#orb)" stroke="url(#rim)" stroke-width="3"/>
+<circle cx="875" cy="302" r="93" fill="#ad55fa" opacity=".20" filter="url(#glow)"/>
+<circle cx="875" cy="302" r="63" fill="url(#orb)" stroke="#ae74f9" stroke-width="2"/>
+<circle cx="946" cy="413" r="57" fill="#23d8ee" opacity=".17" filter="url(#smallglow)"/>
+<circle cx="946" cy="413" r="39" fill="url(#orb)" stroke="#4db8f9" stroke-width="1.5"/>
+<circle cx="710" cy="174" r="18" fill="url(#orb)" stroke="#78bdff" stroke-opacity=".7"/>
+<circle cx="388" cy="480" r="12" fill="#131f57" stroke="#83a3ff" stroke-opacity=".7"/>
+<circle cx="1040" cy="222" r="14" fill="#1e1948" stroke="#b778ff" stroke-opacity=".6"/>
+</g>
+<g fill="#edf6ff" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<text x="550" y="307" font-size="24" font-weight="bold">Attention</text>
+<text x="550" y="337" font-size="20" font-weight="bold">Sphere</text>
+<text x="255" y="424" font-size="14" font-weight="bold">Discover</text>
+<text x="875" y="307" font-size="14" font-weight="bold">Explore</text>
+<text x="946" y="418" font-size="11" font-weight="bold">Context</text>
+</g>
+<g fill="#edf8ff" font-family="Arial, Helvetica, sans-serif">
+<text x="56" y="80" font-size="34" font-weight="bold">FlowFi</text>
+<text x="56" y="115" font-size="17" fill="#a5b5d6">See where attention moves.</text>
+<text x="56" y="581" font-size="12" fill="#a9b0d0" letter-spacing="2">CONCEPT ILLUSTRATION • NOT LIVE DATA</text>
+</g>
+<path d="M56 136h244" stroke="url(#c)" stroke-width="3" stroke-linecap="round"/>
+</svg>
