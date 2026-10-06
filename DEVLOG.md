@@ -3,6 +3,21 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-05 — Results become a first-class proof layer
+
+Today we moved FlowFi's **Results** experience into a dedicated public surface built around recorded outcomes rather than promises. The explorer now starts with a focused set of results and lets people load more when they want deeper history. Higher-outcome proof adapts as the recorded dataset develops, and a dedicated **Weekly Review** creates a consistent, shareable snapshot of recent observed performance.
+
+We also refined **LIVE** as the flagship part of the product: navigation gives it stronger emphasis, the project directory is cleaner, and the research panel is available from the project experience again. Public Docs have been temporarily removed from navigation while we review them for accuracy and clarity.
+
+Across Product, Early Network and Vision, we shifted the public story toward the **transformation FlowFi is trying to create for users** rather than simply listing features. Official X and public GitHub links are now directly available from the site navigation.
+
+Behind the product, we also formalized a more structured evidence-review loop around recorded signals and later outcomes. The goal is simple: learn from what happened after FlowFi surfaced a project, test whether proposed improvements hold up on later data, and only change live intelligence when the evidence supports it. We are deliberately avoiding automatic self-modification or claims based on a handful of exceptional outcomes.
+
+**Availability:** Results and LIVE are evolving public product surfaces. Recorded outcomes describe what was observed historically; they are not guarantees, recommendations, or predictions of future returns.
+
+**Next:** keep improving the quality of LIVE research context, expand honest outcome history, and use accumulated evidence to make future detection more useful over time.
+
+
 ## 2026-10-04 — Solana Market Sphere and more useful LIVE context
 
 Our Solana-first LIVE experience now has a central **Solana Market Sphere** connected to projects with observed trading activity. Solid connections distinguish LIVE-validated projects, while dashed connections identify provisional Early Radar candidates. The connections come from real market observations and remain visible in a subdued form when the latest data is delayed or historical. They show **where trading activity has been observed**—not confirmed SOL transfers, net inflows or a prediction of price.
