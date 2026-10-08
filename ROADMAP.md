@@ -2,20 +2,20 @@
 
 This is a **directional product roadmap**, not a delivery schedule or a promise that a feature is live. We share updates when there is a useful, public-facing milestone to report.
 
-## Now — strengthen the Solana-first experience
+## Now — make LIVE and research feel like one experience
 
-- **Available in the evolving web experience:** a central Solana Market Sphere with separate connections for LIVE-validated projects and provisional Early Radar candidates. Connections describe observed trading activity, not verified transfers or net inflows.
-- **Available in Free Capital Intelligence:** primary-pair trading volume and supported buy/sell transaction counts, with transparent coverage and freshness information.
-- **Recent usability milestones:** a more compact, full-width Early Radar section; consistent desktop and mobile project details; owner-accepted account, campaign and password-recovery journeys.
-- **In progress:** visual polish of the Solana centerpiece and activity-sensitive link emphasis, without suggesting unsupported directional capital flows.
-- Continue controlled tester-release acceptance and clearly distinguish account/campaign functionality from broader automated social-data coverage.
+- **LIVE and Results:** continue improving the Solana-first discovery experience, project context, attention views and recorded outcome history.
+- **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
+- **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
+- **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
+- **Social signals:** expand only where coverage and evidence can be represented accurately; do not describe selective observations as a complete view.
 
-## In controlled Preview — a clearer research experience
+## In controlled testing — wallet and action flows
 
-- Refine a larger, chart-first, **read-only** workspace that keeps recorded observations and project information together.
-- Support research into both qualified LIVE projects and Early Radar candidates, with their different evidence and risk levels clearly distinguished.
-- Check usability across devices and ensure unavailable or historical information is labeled accurately.
-- **Status:** this work is not yet publicly released. Trading, orders and wallet funding are not enabled.
+- A limited end-to-end wallet transfer journey has been tested successfully. This is a **controlled milestone, not a broad public wallet or trading launch**.
+- Continue testing user authorization, understandable confirmations, informative fee presentation, reliability and activity notifications before any wider rollout.
+- Keep unavailable actions clearly labeled; no user should infer general availability from an internal test.
+- Continue improving the terminal experience while treating transaction capability and public access as separate release decisions.
 
 ## Next — make the signals easier to understand
 
