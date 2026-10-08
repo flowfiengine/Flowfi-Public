@@ -3,6 +3,21 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-08 — Faster charts and stricter live-data freshness
+
+Today’s work is focused on making the path from discovery into research feel faster without sacrificing honesty about what the market data can actually support.
+
+- **More responsive terminal charts:** live-price sampling is shared more efficiently, chart interaction work is smoother, and the latest forming candle is preserved while historical data refreshes. We also increased the readability of key price and data-quality information.
+- **Bounded live-data validation:** we introduced a deliberately limited, disabled-by-default streaming pilot to measure real freshness and reliability before any broader use. A longer benchmark stayed connected but exposed a major freshness problem: the connection could remain healthy while candle updates stopped.
+- **Fail closed instead of pretending:** the stale feed was treated as a blocking failure. We added stricter freshness detection and safer diagnostics rather than allowing an apparently connected stream to be presented as current market data.
+- **A concrete issue was isolated:** subsequent testing showed that one healthy provider session state had been misclassified as an error. That handling has been corrected, and the latest bounded run produced fresh candle updates through its stop condition.
+- **Shared infrastructure before scale:** the goal remains one controlled market-data path that can serve many users efficiently, with hard operating limits and fallbacks, rather than opening a separate upstream stream for every viewer.
+
+**Availability:** continuous streaming is still **not** enabled as a public FlowFi feed. These tests do not change trading availability and do not turn a successful short run into a production-readiness claim.
+
+**Next:** run longer freshness validation, confirm stable source behavior under bounded conditions, and only then consider a read-only Preview integration. If freshness becomes uncertain, FlowFi should fall back or label the data as delayed rather than imply that it is live.
+
+
 ## 2026-10-07 — From scattered signals to a clearer FlowFi experience
 
 Over the past few days, our focus has been bringing discovery, research and the next decision closer together. The aim is simple: **less switching between tools, more clarity about what is actually happening.**
