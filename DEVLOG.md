@@ -3,6 +3,21 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-07 — From scattered signals to a clearer FlowFi experience
+
+Over the past few days, our focus has been bringing discovery, research and the next decision closer together. The aim is simple: **less switching between tools, more clarity about what is actually happening.**
+
+- **LIVE and attention context:** we kept refining the Sphere, project information and visual cues so changing activity is easier to spot without overwhelming the screen.
+- **A more useful chart workspace:** the evolving terminal experience brings price charts, timeframes, project context and frequently used research actions into a cleaner layout. We are continuing to improve readability, speed and the desktop experience.
+- **FLUX and recorded outcomes:** attention updates and the Results experience are being shaped around observable activity and historical evidence, with clearer distinctions between fresh, delayed and incomplete data.
+- **Wallet experience:** a limited internal end-to-end wallet transfer test reached confirmed completion. That is an important validation milestone, **not** a launch of unrestricted withdrawals or trading for the public.
+- **Usability first:** clearer labels, more accessible controls and fewer duplicate panels remain priorities. Complex analysis should support the experience behind the scenes rather than burden users with technical detail.
+
+**Availability:** LIVE and Results are evolving public experiences. Some terminal and wallet capabilities remain gated or under controlled testing; the existence of a working test does not mean a capability is available to every account. Social coverage remains selective, and recorded outcomes are not forecasts or trading recommendations.
+
+**Next:** continue refining the terminal journey, dependable wallet communications, honest activity labels and desktop/mobile consistency. We will announce broader availability only after additional release acceptance.
+
+
 ## 2026-10-05 — Results become a first-class proof layer
 
 Today we moved FlowFi's **Results** experience into a dedicated public surface built around recorded outcomes rather than promises. The explorer now starts with a focused set of results and lets people load more when they want deeper history. Higher-outcome proof adapts as the recorded dataset develops, and a dedicated **Weekly Review** creates a consistent, shareable snapshot of recent observed performance.

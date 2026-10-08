@@ -36,7 +36,9 @@ We want to put observations in context, make uncertainty visible, and help peopl
 
 ## Where we are today
 
-FlowFi is in active development. The Solana market visualization and project-level Capital context are deployed in the evolving web experience; visual polish, advanced wallet monitoring and broader market coverage are future work. Early-tester acceptance is progressing, but open external tester enrollment has not been announced. See the [roadmap](ROADMAP.md) for priorities and the [public development log](DEVLOG.md) for selected updates.
+FlowFi is in active development. **LIVE** and **Results** are evolving public experiences, while we refine a chart-first workflow that brings research context closer to the action. A limited internal wallet transfer test has reached confirmed completion, but **this is not an announcement of public trading execution or unrestricted wallet availability**. Social observations and other evidence can be incomplete or delayed, and we label those limits rather than filling gaps with claims.
+
+See the [roadmap](ROADMAP.md) for our public priorities and the [development log](DEVLOG.md) for selected updates.
 
 ## Join the journey
 

@@ -12,6 +12,7 @@ FlowFi is building a visual discovery experience to help people explore emerging
 - **Solana Market Sphere:** a central Solana hub linked to LIVE-validated and provisional Early Radar projects with observed trading activity.
 - **Free Capital Intelligence:** project-level trading volume and available buy/sell transaction counts, with honest coverage and freshness labels.
 - **Accessible discovery:** a compact Early Radar experience and consistent desktop and mobile project research.
+- **Research and Results:** evolving chart-first project context alongside recorded outcomes, with clear distinctions between observations and predictions.
 
 These are product directions, not a claim that every capability is publicly released. Features and scope may change as we learn.
 
@@ -29,7 +30,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-On October 4, the Solana Market Sphere and a clearer Free Capital Intelligence experience advanced in the FlowFi web app. We also compacted Early Radar, refined the desktop/mobile experience, and completed owner-led account and competition acceptance. The next visual upgrade will strengthen the Solana orb and make connection intensity reflect genuine observed activity. Social-data coverage remains limited, and open external tester enrollment has **not** been announced. The chart-first research workspace remains **read-only**; trading and wallet funding are not available. Read the [latest development update](DEVLOG.md) for details.
+On October 7, we shared progress on a more integrated **LIVE → research → decision** experience: clearer project context, a more usable chart workspace, attention updates and evidence-led Results. We also completed a **limited internal wallet workflow test**. This does **not** announce public trading or unrestricted wallet transfers; certain features remain gated and coverage limitations still apply. Read the [development log](DEVLOG.md) for the full update.
 
 ## Share your ideas
 
