@@ -2,6 +2,19 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-09 — A smoother return to LIVE and a more dependable research flow
+
+Good research starts with spotting something interesting, but it also has to remain useful when you come back. This week we have been focusing on the everyday details that make FlowFi clearer, faster to navigate and easier to trust.
+
+- **Charts that stay in context:** the evolving Terminal workspace has been refined for responsive price updates, clearer market-data freshness, and side-by-side research. We completed focused browser checks for changing the active project and for minimizing, restoring and resizing chart views without disrupting the workspace.
+- **A better welcome back:** first-time visitors keep the original introduction, while returning visitors can see a lighter welcome with a direct path to LIVE and, when relevant, unfinished getting-started steps. The aim is useful orientation, not a popup on every click.
+- **More meaningful participation:** Early Network onboarding is being connected to the existing Attention experience, with progress based on qualifying actions rather than repeated clicks. We are continuing to verify community participation before treating it as a completed reward activity.
+- **Reliability before broader access:** we continue to check that chart observations are both recent enough to be useful and displayed honestly when they are not. A responsive chart alone is not proof that every market observation is instantaneous.
+
+**Availability:** LIVE and Results remain evolving public experiences. Some Terminal and wallet functions are limited to controlled testing. Trading execution is **not** broadly enabled, and continuous paid market-data streaming has **not** been released as a public feed. An internal wallet-transfer milestone is not an announcement of general withdrawal availability. Observed market activity is research context, not a prediction or financial advice.
+
+**Next:** keep polishing the returning-member journey, verify that participation rewards correspond to genuine completed actions, and use real feedback to simplify the path from LIVE discovery to project research.
+
 
 ## 2026-10-08 — Faster charts and stricter live-data freshness
 
