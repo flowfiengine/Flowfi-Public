@@ -9,6 +9,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
 - **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
+- **Returning-member journey:** help people get back into LIVE and resume unfinished onboarding without repetitive prompts; recognize meaningful participation only when it can be verified.
 - **Social signals:** expand only where coverage and evidence can be represented accurately; do not describe selective observations as a complete view.
 
 ## In controlled testing — wallet and action flows
