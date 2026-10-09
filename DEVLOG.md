@@ -2,6 +2,20 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-09 — Building confidence from discovery to execution
+
+FlowFi is designed to make the journey from noticing market activity to understanding a project more coherent. Today's development work also advanced the safeguards needed before that journey can responsibly include trading.
+
+- **A clearer research-to-action workspace:** continued refinements to the chart-first Terminal are aimed at keeping project research, relevant context and trading controls closer together without crowding the screen.
+- **Evidence behind transaction status:** internal engineering has advanced checks that distinguish a submitted transaction from a confirmed on-chain outcome. The goal is to avoid displaying a successful fill or settled activity before supporting evidence is available.
+- **More understandable activity and fees:** work continues on trade-history clarity, transaction outcomes and distinguishing actual network costs from estimates. These remain under release verification.
+- **Authorization and user control:** we're refining how trading actions can respect user-defined settings and secure authorization while keeping unexpected or unverified outcomes from being treated as success.
+- **Safety and information quality:** our broader approach remains to show risk-related market context and data freshness honestly. Missing evidence should remain unknown rather than turn into reassuring labels.
+
+**Availability:** these transaction and authorization milestones are **development and controlled-testing work, not an announcement of live public trading**. Transaction verification is not a guarantee of fill speed, execution quality or safety. LIVE and Results continue to provide research context; observed signals are not investment advice.
+
+**Next:** validate the complete experience with realistic tests, improve clarity and responsiveness, and make broader functionality available only after the appropriate acceptance checks.
+
 ## 2026-10-09 — A smoother return to LIVE and a more dependable research flow
 
 Good research starts with spotting something interesting, but it also has to remain useful when you come back. This week we have been focusing on the everyday details that make FlowFi clearer, faster to navigate and easier to trust.
