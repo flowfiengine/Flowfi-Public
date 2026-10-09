@@ -30,7 +30,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-On October 8, we shared progress on **terminal chart responsiveness and live market-data reliability**. A bounded streaming benchmark remained connected but exposed stale candle updates, so we treated freshness as a release blocker, tightened diagnostics and stale-data handling, and kept continuous streaming disabled. A later bounded run stayed fresh through its stop condition after correcting a session-status classification issue. Longer validation is still required before any Preview or public feed rollout. Read the [development log](DEVLOG.md) for the full update.
+On October 9, we shared progress on **a smoother chart workspace, a better welcome-back experience and clearer Early Network participation**. Focused browser checks covered switching between charts and restoring the research workspace, while ongoing work connects onboarding progress to qualifying actions. Trading execution and continuous paid streaming are not being announced as public features. Read the [development log](DEVLOG.md) for the full update.
 
 ## Share your ideas
 
