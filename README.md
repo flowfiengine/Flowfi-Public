@@ -30,7 +30,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-On October 9, we shared progress on **a smoother chart workspace, a better welcome-back experience and clearer Early Network participation**. Focused browser checks covered switching between charts and restoring the research workspace, while ongoing work connects onboarding progress to qualifying actions. Trading execution and continuous paid streaming are not being announced as public features. Read the [development log](DEVLOG.md) for the full update.
+On October 9, we shared progress on **clearer LIVE research, a better returning-member experience and safeguards for future trading**. Our latest engineering work focuses on verifying transaction outcomes against evidence, keeping fees and activity understandable, and respecting secure authorization and user settings. These are **development milestones, not a public trading launch**. LIVE and Results continue to evolve as research experiences. Read the [development log](DEVLOG.md) for details.
 
 ## Share your ideas
 
