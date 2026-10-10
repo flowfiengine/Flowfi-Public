@@ -30,7 +30,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-On October 9, we shared progress on **clearer LIVE research, a better returning-member experience and safeguards for future trading**. Our latest engineering work focuses on verifying transaction outcomes against evidence, keeping fees and activity understandable, and respecting secure authorization and user settings. These are **development milestones, not a public trading launch**. LIVE and Results continue to evolve as research experiences. Read the [development log](DEVLOG.md) for details.
+**October 9 evening:** FlowFi's latest improvements make research more useful: clearer context for social relationships, stronger evidence alongside recorded Results, and smoother mobile LIVE/Terminal interaction. We are also showing an illustrative preview of the Studio direction. Incomplete observations remain explicitly labeled, and historical outcomes are not predictions. **Trading is still in controlled testing, not a public launch.** Read the [development log](DEVLOG.md) for details.
 
 ## Share your ideas
 
