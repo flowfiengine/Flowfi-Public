@@ -24,13 +24,14 @@ This repository is our **public development journal**. We publish selected, revi
 - [Conceptual showcase](SHOWCASE.md)
 - [Public roadmap](ROADMAP.md)
 - [Development log](DEVLOG.md)
+- [Official website updates](https://flowfiengine.app/updates)
 - [Community feedback](CONTRIBUTING.md)
 
 You can **Star** this repository to support the project or **Watch** it to follow new updates.
 
 ## Latest development update
 
-**October 11:** FlowFi's latest progress includes stronger project-level Social Intelligence coverage checks: incomplete polls, continuity gaps and unverified windows stay explicitly incomplete. We're validating the first post-release ingestion evidence before making broader claims. Alongside that reliability work, we're making discovery clearer: a simpler introduction to Solana market activity, focused LIVE navigation, better explanations of recorded Results, and a more visible FLUX research assistant. Studio Free's verified-owner tools continue through development and review, while **FlowFi Pro remains coming soon**. We treat incomplete social or market evidence as incomplete—not as confirmation—and **public trading is not enabled**. Read the [development log](DEVLOG.md) for the full update.
+**October 11 — Afternoon progress:** We're turning more of FlowFi's development into user-understandable proof. Results work now distinguishes missing comparable observations from actual recorded outcomes and adds a clearer direction for audited **1h / 6h / 24h / 7d** coverage. Studio's evolving Launch Lab helps creators prepare a website, community presence, visual assets and a portable draft **without issuing a token**. A premium **Launch Watch — UPCOMING** preview and a more polished Updates hub make the roadmap easier to follow. These are development milestones; wider availability needs separate verification. Social coverage remains selective, **public trading is not enabled**, and Pro is coming soon. Read the [development log](DEVLOG.md) for the full explanation.
 
 ## Share your ideas
 
