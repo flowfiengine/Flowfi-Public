@@ -2,6 +2,22 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-11 — Less noise, clearer research, evidence before action
+
+FlowFi's goal is straightforward: **find Solana projects showing activity, understand the available evidence, and review what happened afterward.** Recent work focuses on making that promise understandable from the first visit—not asking people to decode a complex interface before they know what it does.
+
+- **A clearer first impression:** the homepage now explains the Solana-first research experience in plain language and leads with the practical journey: **Discover activity → Check evidence → Review outcomes**. LIVE and Results are easier to find without removing the product's visual identity.
+- **A more focused LIVE experience:** new-user orientation and simpler first-view controls help people explore the Sphere first, with deeper filters available when needed. The intent is less interface noise, not less underlying research.
+- **Research with context:** the Terminal's evidence-first orientation and Results guidance make it easier to distinguish **why a project was tracked**, **what was recorded**, and **what remains unverified**. A historical peak is not a realized trading return or a prediction.
+- **More discoverable FLUX assistance:** the research assistant is easier to find from LIVE. Its reliability work emphasizes the current selected project, data freshness, appropriately supported explanations, and honest fallbacks when evidence or AI output cannot be trusted.
+- **Project-owner tools in development:** Studio Free is progressing toward a private verified-owner workspace and a read-only Project Pulse view of attributable observations. Verification and coverage are treated as separate requirements; this is **not a declaration that every Studio workflow is publicly available**.
+- **Pro is more visible—but still coming soon:** people can discover the Pro direction and waitlist more easily without confusing future capabilities with Free LIVE today.
+- **Responsible signal interpretation:** limited social samples or unqualified relationships should never be described as confirmed attention shifts or direct capital transfers. Missing observations remain unknown, not zero.
+
+**Availability:** LIVE and recorded Results are evolving public research experiences. Studio capabilities, Pro features, wallet and trading actions each have separate access and release requirements. **Public trading execution is not enabled.** Read-only transaction-verification milestones and controlled tests do not authorize trades or establish wider availability. FlowFi does not provide investment advice, and historical observations do not guarantee future outcomes.
+
+**Next:** keep shortening the path from discovery to a useful, evidence-backed research decision, validate project-owner workflows and continue controlled trading-readiness reviews before any separate launch announcement.
+
 ## 2026-10-09 — Building confidence from discovery to execution
 
 FlowFi is designed to make the journey from noticing market activity to understanding a project more coherent. Today's development work also advanced the safeguards needed before that journey can responsibly include trading.

@@ -4,13 +4,20 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 ## Now — make LIVE and research feel like one experience
 
+- **First-visit clarity:** explain the Solana-first discovery journey immediately, keep LIVE and Results prominent, and make advanced controls optional rather than overwhelming.
 - **LIVE and Results:** continue improving the Solana-first discovery experience, project context, attention views and recorded outcome history.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
+- **FLUX research clarity:** make on-demand explanations accessible while labeling missing, delayed or unsupported evidence and avoiding stale project context.
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
 - **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
 - **Returning-member journey:** help people get back into LIVE and resume unfinished onboarding without repetitive prompts; recognize meaningful participation only when it can be verified.
 - **Social signals:** expand only where coverage and evidence can be represented accurately; do not describe selective observations as a complete view.
+
+## In development — Studio Free and Pro
+
+- **Studio Free:** progress verified project-owner claims, independent review, and a private, read-only Project Pulse workspace. Availability depends on separate release acceptance; incomplete market or social coverage remains clearly identified.
+- **FlowFi Pro:** keep the coming-soon experience and waitlist visible while evaluating advanced research and personalization. Waitlist access is not feature availability, and no Pro billing or release date is announced here.
 
 ## In controlled testing — wallet and action flows
 
@@ -20,6 +27,8 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - Continue improving the terminal experience while treating transaction capability and public access as separate release decisions.
 
 ## Next — make the signals easier to understand
+
+- Improve the explanation of why projects are tracked, what outcomes were actually recorded, and what evidence is missing; observed peaks are not realized returns.
 
 - Improve the visual hierarchy of real observed activity, using different comparison windows for LIVE-validated and Early Radar projects.
 - Continue refining honest explanations of attention, market activity and incomplete observations.

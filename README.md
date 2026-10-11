@@ -30,7 +30,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 9 evening:** FlowFi's latest improvements make research more useful: clearer context for social relationships, stronger evidence alongside recorded Results, and smoother mobile LIVE/Terminal interaction. We are also showing an illustrative preview of the Studio direction. Incomplete observations remain explicitly labeled, and historical outcomes are not predictions. **Trading is still in controlled testing, not a public launch.** Read the [development log](DEVLOG.md) for details.
+**October 11:** FlowFi's latest progress is about making discovery clearer: a simpler introduction to Solana market activity, focused LIVE navigation, better explanations of recorded Results, and a more visible FLUX research assistant. Studio Free's verified-owner tools continue through development and review, while **FlowFi Pro remains coming soon**. We treat incomplete social or market evidence as incomplete—not as confirmation—and **public trading is not enabled**. Read the [development log](DEVLOG.md) for the full update.
 
 ## Share your ideas
 
