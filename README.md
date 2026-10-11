@@ -30,7 +30,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 11:** FlowFi's latest progress is about making discovery clearer: a simpler introduction to Solana market activity, focused LIVE navigation, better explanations of recorded Results, and a more visible FLUX research assistant. Studio Free's verified-owner tools continue through development and review, while **FlowFi Pro remains coming soon**. We treat incomplete social or market evidence as incomplete—not as confirmation—and **public trading is not enabled**. Read the [development log](DEVLOG.md) for the full update.
+**October 11:** FlowFi's latest progress includes stronger project-level Social Intelligence coverage checks: incomplete polls, continuity gaps and unverified windows stay explicitly incomplete. We're validating the first post-release ingestion evidence before making broader claims. Alongside that reliability work, we're making discovery clearer: a simpler introduction to Solana market activity, focused LIVE navigation, better explanations of recorded Results, and a more visible FLUX research assistant. Studio Free's verified-owner tools continue through development and review, while **FlowFi Pro remains coming soon**. We treat incomplete social or market evidence as incomplete—not as confirmation—and **public trading is not enabled**. Read the [development log](DEVLOG.md) for the full update.
 
 ## Share your ideas
 
