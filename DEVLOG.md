@@ -2,6 +2,19 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-11 — Making Social Intelligence more accountable
+
+FlowFi's latest production release improves how we evaluate social evidence **for each tracked project**, rather than assuming a successful shared search proves complete coverage everywhere.
+
+- **Project-by-project continuity:** we introduced a separate coverage record for projects included in a Social Intelligence polling cycle. This helps distinguish an uninterrupted observation window from a newly started or interrupted one.
+- **Incomplete data stays incomplete:** truncated search results, polling gaps and missing continuity proof do not become claims of verified 24-hour social coverage. A checkpoint storage failure also cannot be treated as healthy evidence.
+- **More useful research context:** the goal is to make attention relationships and future analysis more trustworthy by explaining what FlowFi actually observed—and what it could not verify.
+- **Controlled release:** automated verification passed, and the update reached the production deployment. We are checking subsequent scheduled ingestion cycles before claiming that the new coverage records are populated or that social relationships have improved.
+
+**Availability:** this is a data-quality and reliability improvement, not an announcement of complete X coverage, confirmed social relationships, guaranteed signal performance or public trading access. Social monitoring remains selective, and observed activity is not financial advice.
+
+**Next:** validate fresh per-project checkpoints after scheduled ingestion, review incomplete-window diagnostics, and use that evidence to guide further improvements without increasing provider polling solely for this release.
+
 ## 2026-10-11 — Less noise, clearer research, evidence before action
 
 FlowFi's goal is straightforward: **find Solana projects showing activity, understand the available evidence, and review what happened afterward.** Recent work focuses on making that promise understandable from the first visit—not asking people to decode a complex interface before they know what it does.
