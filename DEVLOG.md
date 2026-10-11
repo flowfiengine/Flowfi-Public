@@ -2,6 +2,20 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-11 — More meaningful Results, a clearer Studio path, and visible progress
+
+As FlowFi grows, a good product update should explain **what has improved, what the evidence actually supports, and what is still being developed**. Today's next set of milestones makes that distinction clearer across research, creator tools and the update experience.
+
+- **Results that explain their evidence:** work on the Results experience replaces vague “not measured” placeholders with a more specific distinction: a previously validated project may not yet have a comparable recorded peak. That is a coverage gap—not a failed trade, a rejected project or proof of a loss. We have also advanced audited outcome-coverage summaries across **1 hour, 6 hours, 24 hours and 7 days**, designed to distinguish comparable observations from missing, immature or unusable evidence. These views must show unavailable or outdated data honestly; their ongoing refresh is subject to separate rollout checks.
+- **A more practical FlowFi Studio:** Studio's evolving direction brings together **Create → Verify → Launch → Grow → Understand**. The Launch Lab preparation work lets creators develop a project outline, review image requirements and keep a portable draft before any token exists. The checklist calls for an independent project website and at least one public social channel; those local format checks are **not** identity, ownership or safety verification.
+- **A clear distinction between preview and launch:** the Studio examples include a branded illustrative FlowFi orb, while the Terminal's **FlowFi Launch Watch — UPCOMING** is a preview of a future curated area. Neither means a FLOWFI token has been created or that any token launch has been approved. Token creation, launch execution and image generation remain unavailable to general users.
+- **A stronger Updates experience:** the dedicated FlowFi Updates destination and notification bell provide a way to follow reviewed announcements. Additional presentation work makes the progress story easier to scan, with a dedicated place for future Intelligence Daily reviews. An audit will only be shown as published when a real reviewed report exists—not because a daily schedule or illustrative layout exists.
+- **Reliability before action:** market and social observations need accurate freshness and coverage labels. Chart responsiveness and trading-readiness work continue without implying that all market feeds are licensed for redistribution or that public trading is enabled.
+
+**Availability:** these are selected development milestones, not a blanket announcement that every interface change has completed its production rollout. The existing public LIVE and Results research experiences continue evolving. Studio previews and Launch Watch do not authorize token launches; FLUX research is not financial advice; FlowFi Pro is still coming soon; public trading execution is **not enabled**.
+
+**Next:** verify the newest Results coverage views and refresh cycle, continue mobile/desktop acceptance of Studio preparation, and publish Intelligence Daily insights only when the underlying audit evidence is independently reviewed.
+
 ## 2026-10-11 — Making Social Intelligence more accountable
 
 FlowFi's latest production release improves how we evaluate social evidence **for each tracked project**, rather than assuming a successful shared search proves complete coverage everywhere.
