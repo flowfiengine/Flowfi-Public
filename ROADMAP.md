@@ -6,6 +6,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 - **First-visit clarity:** explain the Solana-first discovery journey immediately, keep LIVE and Results prominent, and make advanced controls optional rather than overwhelming.
 - **LIVE and Results:** continue improving the Solana-first discovery experience, project context, attention views and recorded outcome history.
+- **Recorded-outcome coverage:** make missing observations understandable and validate audited 1h, 6h, 24h and 7d coverage summaries without confusing sampling coverage with trading results.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
 - **FLUX research clarity:** make on-demand explanations accessible while labeling missing, delayed or unsupported evidence and avoiding stale project context.
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
@@ -17,6 +18,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 ## In development — Studio Free and Pro
 
 - **Studio Free:** progress verified project-owner claims, independent review, and a private, read-only Project Pulse workspace. Availability depends on separate release acceptance; incomplete market or social coverage remains clearly identified.
+- **Launch Lab preparation:** refine local project briefs, independent website/community checks and image-readiness guidance before any approved token launch. Showcase and preparation do not grant ownership verification or mint permission.
 - **FlowFi Pro:** keep the coming-soon experience and waitlist visible while evaluating advanced research and personalization. Waitlist access is not feature availability, and no Pro billing or release date is announced here.
 
 ## In controlled testing — wallet and action flows
@@ -25,6 +27,12 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - Continue testing user authorization, understandable confirmations, informative fee presentation, reliability and activity notifications before any wider rollout.
 - Keep unavailable actions clearly labeled; no user should infer general availability from an internal test.
 - Continue improving the terminal experience while treating transaction capability and public access as separate release decisions.
+
+## Now — communicate progress clearly
+
+- Keep the website Updates experience and the public development journal aligned through reviewed, non-sensitive announcements.
+- Present verified releases separately from upcoming functionality and unpublished Intelligence Daily audits.
+- Keep Launch Watch clearly labeled **UPCOMING** until an independently approved launch-listing program exists.
 
 ## Next — make the signals easier to understand
 
