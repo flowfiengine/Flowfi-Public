@@ -4,10 +4,12 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 ## Now — make LIVE and research feel like one experience
 
-- **First-visit clarity:** explain the Solana-first discovery journey immediately, keep LIVE and Results prominent, and make advanced controls optional rather than overwhelming.
+- **First-visit clarity:** provide a welcoming first/returning sign-in journey, accessible Getting Started steps, and direct introductions to LIVE research across mobile and desktop.
+- **Creator referrals:** make optional codes understandable and confirmed registrations distinguishable from link views; no automatic reward promises.
 - **LIVE and Results:** continue improving the Solana-first discovery experience, project context, attention views and recorded outcome history.
 - **Recorded-outcome coverage:** make missing observations understandable and validate audited 1h, 6h, 24h and 7d coverage summaries without confusing sampling coverage with trading results.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
+- **Chart data integrity:** distinguish real sampled observations, licensed market data and explicitly synthetic chart demonstrations. Never present a demo as live or delayed price history.
 - **FLUX research clarity:** make on-demand explanations accessible while labeling missing, delayed or unsupported evidence and avoiding stale project context.
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
@@ -19,12 +21,14 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 - **Studio Free:** progress verified project-owner claims, independent review, and a private, read-only Project Pulse workspace. Availability depends on separate release acceptance; incomplete market or social coverage remains clearly identified.
 - **Launch Lab preparation:** refine local project briefs, independent website/community checks and image-readiness guidance before any approved token launch. Showcase and preparation do not grant ownership verification or mint permission.
+- **Studio OS:** develop browser-local brand and content planning with honest availability labels; launch execution and automated creator operations remain separate future capabilities.
 - **FlowFi Pro:** keep the coming-soon experience and waitlist visible while evaluating advanced research and personalization. Waitlist access is not feature availability, and no Pro billing or release date is announced here.
 
 ## In controlled testing — wallet and action flows
 
 - A limited end-to-end wallet transfer journey has been tested successfully. This is a **controlled milestone, not a broad public wallet or trading launch**.
 - Continue testing user authorization, understandable confirmations, informative fee presentation, reliability and activity notifications before any wider rollout.
+- Refine review-only route comparisons while keeping actual trading subject to separate authorization, safety and acceptance checks.
 - Keep unavailable actions clearly labeled; no user should infer general availability from an internal test.
 - Continue improving the terminal experience while treating transaction capability and public access as separate release decisions.
 
@@ -36,7 +40,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 ## Next — make the signals easier to understand
 
-- Improve the explanation of why projects are tracked, what outcomes were actually recorded, and what evidence is missing; observed peaks are not realized returns.
+- Improve the explanation of why projects are tracked, what outcomes were actually recorded, and what evidence is missing; observed 10×+/20×+/50×+/100×+ peak categories are overlapping historical observations, not realized returns.
 
 - Improve the visual hierarchy of real observed activity, using different comparison windows for LIVE-validated and Early Radar projects.
 - Continue refining honest explanations of attention, market activity and incomplete observations.

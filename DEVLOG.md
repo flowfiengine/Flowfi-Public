@@ -2,6 +2,22 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-12 — A clearer welcome, more useful research, and careful progress toward action
+
+FlowFi is designed around **Noise → Clarity → Action**. This round of work aims to make each step easier to understand—especially for someone discovering crypto research for the first time.
+
+- **A more welcoming first session:** the sign-in and signup experience has been refined for mobile and desktop. The developing post-sign-in journey distinguishes **Welcome to FlowFi** from **Welcome back**, with a prominent **Get Started** path into the existing account checklist rather than another disconnected introduction.
+- **Getting Started that leads somewhere useful:** progress and the next unfinished task are easier to find. The Terminal tour now leads toward the actual chart workspace, explains that its example project is **not a trading recommendation**, and keeps the guide usable across screen sizes. Completing a walkthrough is different from simply opening it.
+- **Clearer creator referrals:** an optional, generic referral-code field complements existing creator links. Reliability improvements focus on recognizing confirmed registrations without confusing referral-link opens with completed signups or automatically promising rewards.
+- **Research charts without misleading data:** the Terminal experience continues to improve its responsive chart layout and interaction. Real recorded-price observations are distinguished from full market candles. Where an interactive candlestick demonstration is offered, it is prominently labeled **DEMO · NOT LIVE**: its illustrative candles are **synthetic, not delayed real prices**, and must never be mistaken for tradeable market data.
+- **Results that show the evidence:** the experience is being refined to make recorded outcome milestones easier to explore, including **10×+, 20×+, 50×+ and 100×+** observations. These are overlapping historical peak categories for eligible tracked projects—not realized investor returns, successful trade counts, win rates or forecasts.
+- **Studio becomes a more practical workspace:** the developing Studio OS brings brand planning, content drafts and launch preparation into one creator-oriented view. Project materials can be prepared before any token exists. This does **not** constitute verified ownership, an approved launch, automatic posting or live token creation.
+- **Preparation before trading:** we continue to improve how future action flows present uncertainty and compare information, while treating approval, pricing evidence and actual execution as separate milestones.
+
+**Availability:** these points describe selected development progress, not blanket confirmation that every change has completed public production acceptance. LIVE and Results remain evolving research experiences. FlowFi Pro is **coming soon**. Public token launches, general AI image generation and live trading execution are **not enabled by this update**. The presence of a chart demonstration or a route preview is not proof of live market execution.
+
+**Next:** verify the new onboarding and research experience on real mobile and desktop browsers, distinguish current observations from illustrative chart displays, test creator attribution fairly, and continue release reviews before expanding financial functionality.
+
 ## 2026-10-11 — More meaningful Results, a clearer Studio path, and visible progress
 
 As FlowFi grows, a good product update should explain **what has improved, what the evidence actually supports, and what is still being developed**. Today's next set of milestones makes that distinction clearer across research, creator tools and the update experience.

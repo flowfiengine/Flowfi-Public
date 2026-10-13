@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 11 — Afternoon progress:** We're turning more of FlowFi's development into user-understandable proof. Results work now distinguishes missing comparable observations from actual recorded outcomes and adds a clearer direction for audited **1h / 6h / 24h / 7d** coverage. Studio's evolving Launch Lab helps creators prepare a website, community presence, visual assets and a portable draft **without issuing a token**. A premium **Launch Watch — UPCOMING** preview and a more polished Updates hub make the roadmap easier to follow. These are development milestones; wider availability needs separate verification. Social coverage remains selective, **public trading is not enabled**, and Pro is coming soon. Read the [development log](DEVLOG.md) for the full explanation.
+**October 12:** Our latest work makes the journey from first visit to crypto research clearer. FlowFi is refining its sign-in welcome, Getting Started checklist, guided Terminal tour, mobile navigation, and optional referral codes. We're improving chart interaction while keeping real recorded-price observations separate from any clearly labeled **synthetic chart demo (NOT LIVE)**. Results explain historical milestones more clearly, and Studio OS is progressing as a creator planning workspace. These are selected development milestones, **not** a public trading or token-launch announcement. FlowFi Pro remains coming soon. See the [development log](DEVLOG.md) for more.
 
 ## Share your ideas
 
