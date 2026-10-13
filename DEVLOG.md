@@ -2,6 +2,20 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-13 — Building the bridge from research to responsible action
+
+FlowFi's goal is not just to help people notice market activity. It is to make the progression from **discovery, to evidence, to a possible decision** understandable—and to be clear when the evidence is not sufficient.
+
+- **A controlled look at routes, not a live trade:** we exercised a limited founder-only, quote-only trading preview. It helped test how alternative route information and uncertainty can be presented before an action. A displayed quote is not proof of a fill, and this exercise did **not** sign, broadcast or settle a swap.
+- **Preparing trustworthy transaction history:** engineering work is connecting future order intent, wallet ownership, independently observed chain outcomes and recorded fills. The objective is to prevent an unverified transaction from appearing as completed activity. The history and position-reading work is still undergoing acceptance; this is **not** a claim that users can trade or see verified portfolio profits today.
+- **Precision matters:** we are designing position and cost-basis calculations around complete, consistent recorded history. If the supporting history is incomplete, the correct answer is **unavailable**, not an invented balance, gain or loss.
+- **Charts with honest source labels:** where authorized market candles eventually appear, their provider should be credited clearly. Recorded FlowFi observations and illustrative candlestick demonstrations must remain visibly distinct. Attribution by itself does **not** establish a market-data redistribution license or activate a feed.
+- **Proof before launch claims:** we are organizing evidence and review checkpoints for the path to a first controlled transaction. Passing a code test, displaying a quote or completing a read-only inspection does not substitute for separate provider, authorization, settlement and release acceptance.
+
+**Availability:** LIVE and Results remain research experiences. **Public trading execution is not enabled.** No funded swap or public token launch is being announced here. Studio launch preparation and FlowFi Pro are separate development directions; Pro remains coming soon. Historical price movements and displayed route quotes are not investment recommendations, guaranteed returns or assurances of execution.
+
+**Next:** continue independent reviews of quote quality and data rights, verify accurate transaction and position accounting, refine mobile/desktop research clarity, and publish a financial-action launch announcement only after its own acceptance gates have been met.
+
 ## 2026-10-12 — A clearer welcome, more useful research, and careful progress toward action
 
 FlowFi is designed around **Noise → Clarity → Action**. This round of work aims to make each step easier to understand—especially for someone discovering crypto research for the first time.
