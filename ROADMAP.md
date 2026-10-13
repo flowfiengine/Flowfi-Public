@@ -28,7 +28,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 - A limited end-to-end wallet transfer journey has been tested successfully. This is a **controlled milestone, not a broad public wallet or trading launch**.
 - Continue testing user authorization, understandable confirmations, informative fee presentation, reliability and activity notifications before any wider rollout.
-- Refine review-only route comparisons while keeping actual trading subject to separate authorization, safety and acceptance checks.
+- Continue evaluating review-only routes and exact accounting before any public trading access. These development milestones do not authorize transactions.
 - Keep unavailable actions clearly labeled; no user should infer general availability from an internal test.
 - Continue improving the terminal experience while treating transaction capability and public access as separate release decisions.
 

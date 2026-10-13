@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 12:** Our latest work makes the journey from first visit to crypto research clearer. FlowFi is refining its sign-in welcome, Getting Started checklist, guided Terminal tour, mobile navigation, and optional referral codes. We're improving chart interaction while keeping real recorded-price observations separate from any clearly labeled **synthetic chart demo (NOT LIVE)**. Results explain historical milestones more clearly, and Studio OS is progressing as a creator planning workspace. These are selected development milestones, **not** a public trading or token-launch announcement. FlowFi Pro remains coming soon. See the [development log](DEVLOG.md) for more.
+**October 13:** FlowFi is strengthening the path from **Noise → Clarity → Action**. A limited founder-only **quote-only preview** has helped us evaluate how trading-route information could appear before a decision—**no swap was signed or executed**. Work continues on evidence-backed transaction history, accurate position accounting, and clearer market-data attribution without relaxing licensing requirements. These are controlled development milestones, **not public trading access** or a token-launch announcement. Studio and Pro remain separately gated, with Pro coming soon. See the [development log](DEVLOG.md) for the full update.
 
 ## Share your ideas
 
