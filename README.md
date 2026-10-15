@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 15:** FlowFi has advanced **FLUX Intelligence** with a more polished research workspace and evidence-based **5-minute / 1-hour** historical comparisons. Wallet Beta work now strengthens **SOL and USDC deposit monitoring**, transaction history and confirmation reliability. Getting Started explains the Early Network prerequisite before connecting X, and the website Updates experience is being connected to our reviewed public journal. We also progressed controlled wallet-authorization and **synthetic settlement** testing. These are distinct development milestones—not a live trade, universal wallet rollout or token launch. **Public trading execution remains disabled; Pro is coming soon.** Read the [development log](DEVLOG.md) for the full update.
+**October 15 — Evening:** FlowFi has advanced LIVE Sphere reliability, source-aware project observation, and clearer Results evidence. We are improving how the product distinguishes current from delayed observations, historical peaks with known or unknown pool provenance, and trustworthy Social signals. FLUX research now includes richer evidence explanations and an optional research-brief export. These are measured research and engineering milestones, **not a trade or token-launch announcement**. **Public trading execution remains disabled**, and Pro is coming soon. See the [development log](DEVLOG.md) for details.
 
 ## Share your ideas
 
