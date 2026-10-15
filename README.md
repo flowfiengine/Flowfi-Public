@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 13:** FlowFi is strengthening the path from **Noise → Clarity → Action**. A limited founder-only **quote-only preview** has helped us evaluate how trading-route information could appear before a decision—**no swap was signed or executed**. Work continues on evidence-backed transaction history, accurate position accounting, and clearer market-data attribution without relaxing licensing requirements. These are controlled development milestones, **not public trading access** or a token-launch announcement. Studio and Pro remain separately gated, with Pro coming soon. See the [development log](DEVLOG.md) for the full update.
+**October 15:** FlowFi has advanced **FLUX Intelligence** with a more polished research workspace and evidence-based **5-minute / 1-hour** historical comparisons. Wallet Beta work now strengthens **SOL and USDC deposit monitoring**, transaction history and confirmation reliability. Getting Started explains the Early Network prerequisite before connecting X, and the website Updates experience is being connected to our reviewed public journal. We also progressed controlled wallet-authorization and **synthetic settlement** testing. These are distinct development milestones—not a live trade, universal wallet rollout or token launch. **Public trading execution remains disabled; Pro is coming soon.** Read the [development log](DEVLOG.md) for the full update.
 
 ## Share your ideas
 
