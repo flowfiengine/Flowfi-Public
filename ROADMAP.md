@@ -9,8 +9,11 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **LIVE and Results:** continue improving the Solana-first discovery experience, project context, attention views and recorded outcome history.
 - **Recorded-outcome coverage:** make missing observations understandable and validate audited 1h, 6h, 24h and 7d coverage summaries without confusing sampling coverage with trading results.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
+- **Reliable observation freshness:** do not make a retained or delayed LIVE observation appear new; validate consistent source-pool identity before comparing project activity across snapshots.
+- **Transparent Results provenance:** separate historically recorded milestone counts from pool-source-matched subsets, keeping unknown historical evidence visible and clearly labeled.
 - **Chart data integrity:** distinguish real sampled observations, licensed market data and explicitly synthetic chart demonstrations. Never present a demo as live or delayed price history.
 - **FLUX research clarity:** improve evidence-backed comparisons between recorded LIVE observations, including 5-minute and 1-hour research windows when trustworthy history exists. Mark stale, incomplete or incomparable evidence unavailable.
+- **FLUX research quality:** show whether comparable observations actually exist, disclose missing price or rolling-volume fields, and retain those limitations in user-requested research exports.
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
 - **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
@@ -31,6 +34,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Settlement accounting:** expand controlled synthetic lifecycle testing and complete evidence-based positions without treating a test receipt as a funded transaction.
 - Continue testing user authorization, understandable confirmations, informative fee presentation, reliability and activity notifications before any wider rollout.
 - Continue evaluating review-only routes and exact accounting before any public trading access. These development milestones do not authorize transactions.
+- Continue independent review of transaction identity, owner authorization and settlement evidence before making financial execution available; read-only and synthetic tests do not authorize trades.
 - Keep unavailable actions clearly labeled; no user should infer general availability from an internal test.
 - Continue improving the terminal experience while treating transaction capability and public access as separate release decisions.
 
