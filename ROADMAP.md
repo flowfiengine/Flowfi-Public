@@ -10,11 +10,11 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Recorded-outcome coverage:** make missing observations understandable and validate audited 1h, 6h, 24h and 7d coverage summaries without confusing sampling coverage with trading results.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
 - **Chart data integrity:** distinguish real sampled observations, licensed market data and explicitly synthetic chart demonstrations. Never present a demo as live or delayed price history.
-- **FLUX research clarity:** make on-demand explanations accessible while labeling missing, delayed or unsupported evidence and avoiding stale project context.
+- **FLUX research clarity:** improve evidence-backed comparisons between recorded LIVE observations, including 5-minute and 1-hour research windows when trustworthy history exists. Mark stale, incomplete or incomparable evidence unavailable.
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
 - **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
-- **Returning-member journey:** help people get back into LIVE and resume unfinished onboarding without repetitive prompts; recognize meaningful participation only when it can be verified.
+- **Returning-member journey:** offer visible, unobstructed Getting Started controls, explain Early Network enrollment before X connection, and recognize participation only when it can be verified.
 - **Social signals:** expand only where coverage and evidence can be represented accurately; do not describe selective observations as a complete view.
 
 ## In development — Studio Free and Pro
@@ -27,6 +27,8 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 ## In controlled testing — wallet and action flows
 
 - A limited end-to-end wallet transfer journey has been tested successfully. This is a **controlled milestone, not a broad public wallet or trading launch**.
+- **Deposit observation:** continue validating SOL and USDC receipt monitoring, transaction-history consistency, replay handling and notification recovery before wider Wallet Beta acceptance.
+- **Settlement accounting:** expand controlled synthetic lifecycle testing and complete evidence-based positions without treating a test receipt as a funded transaction.
 - Continue testing user authorization, understandable confirmations, informative fee presentation, reliability and activity notifications before any wider rollout.
 - Continue evaluating review-only routes and exact accounting before any public trading access. These development milestones do not authorize transactions.
 - Keep unavailable actions clearly labeled; no user should infer general availability from an internal test.
@@ -34,7 +36,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 ## Now — communicate progress clearly
 
-- Keep the website Updates experience and the public development journal aligned through reviewed, non-sensitive announcements.
+- Keep the website Updates experience and the public development journal aligned through reviewed, non-sensitive announcements, with public journal entries clearly distinguished from verified feature releases.
 - Present verified releases separately from upcoming functionality and unpublished Intelligence Daily audits.
 - Keep Launch Watch clearly labeled **UPCOMING** until an independently approved launch-listing program exists.
 

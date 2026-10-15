@@ -2,6 +2,21 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-15 — Smarter evidence in LIVE, more reliable wallet foundations
+
+The last two days have moved several parts of FlowFi forward. The focus remains **Noise → Clarity → Action**: make the research genuinely more useful, explain what the data proves, and prepare future actions without overstating availability.
+
+- **FLUX becomes a more serious research workspace:** we refined its mobile and desktop presentation and added evidence-based comparisons between completed LIVE observations. New **5-minute and 1-hour** research views can explain observed changes, entries and exits when a suitable history exists. If observations are stale, incomplete or not comparable, FLUX should say so rather than invent a trend. These historical comparisons are read-only; they do not automatically generate AI content or trigger trades.
+- **Wallet Beta reliability:** development now covers monitoring for both **SOL and USDC** deposit activity, improving transaction-history ordering, duplicate handling, and the distinction between a detected transaction and confirmed evidence. A previously tested controlled wallet transfer remains a limited milestone. Full live acceptance of every asset, notification and recovery path is separate from implementation progress.
+- **A more helpful Getting Started flow:** missing account-task destinations were corrected, and the required **Join Early Network → Connect X** order is explained directly. The desktop setup entry now sits in the top navigation instead of covering the research controls. Account completion and participation still depend on actual verified steps.
+- **Public progress is easier to follow:** work on the website Updates page and notification bell connects them to the **reviewed public development journal**, so progress notes can appear alongside separately labeled release announcements. The public journal is not a mirror of proprietary development work.
+- **Trading foundations, without premature execution:** controlled review of route information and wallet-owner authorization has advanced. In parallel, an isolated **synthetic BUY → partial SELL → SELL** accounting exercise has helped validate how future fills and positions should remain consistent. Simulated settlement is not a funded trade, and the remaining real-world signing, routing and settlement evidence must pass independent review before any financial action is enabled.
+- **Clear separation of future products:** Studio's creator-launch direction and Pro's enhanced research offering remain separate release tracks. Upcoming functionality is not an approved token launch, a paid feature activation or a promise of returns.
+
+**Availability:** LIVE, recorded Results and the public Updates journal support research and development transparency. Some improvements may still require separate deployment or production acceptance. **Public trading execution is not enabled**, and we are not announcing a live FLOWFI token or a completed founder trade. Wallet Beta, FLUX history, Studio and Pro have distinct access and verification requirements.
+
+**Next:** independently verify new research and deposit observations, review the complete evidence chain behind future transaction outcomes, refine the member experience on mobile and desktop, and announce expanded access only when each feature passes its own checks.
+
 ## 2026-10-13 — Building the bridge from research to responsible action
 
 FlowFi's goal is not just to help people notice market activity. It is to make the progression from **discovery, to evidence, to a possible decision** understandable—and to be clear when the evidence is not sufficient.
