@@ -2,6 +2,21 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-15 — Evening progress: clearer LIVE evidence and more accountable Results
+
+Today we made another important push toward FlowFi's core promise: **Noise → Clarity → Action**. Research is only useful when people can tell which observations are current, which historical comparisons are meaningful, and where proof is still missing.
+
+- **A steadier LIVE Sphere:** recent reliability work improves how successful observations are refreshed and how delayed states are displayed. When a new observation cannot be confirmed, we aim to preserve its original observation time rather than make an older snapshot appear current. Market selection is becoming more consistent when a project has more than one trading pool.
+- **Source-aware market research:** we are improving how FlowFi follows changes in a project's observed source pool. A pool switch matters when comparing activity over time, and missing source identity must never be silently treated as continuity. This work is subject to separate data and deployment acceptance.
+- **Results with stronger context:** historical Results are being made more complete and transparent. In particular, recorded peaks can now be distinguished by whether their pool source is matched, different or unknown relative to the first tracked observation, when that evidence exists. Older records without that proof remain **unknown**, not retroactively certified. Last-observed and historical/stale labels also help readers avoid confusing a past milestone with live activity.
+- **More trustworthy Social Intelligence:** we are tightening how sampled social observations qualify as corroborating evidence and how eligible projects are accounted for. Counts alone do not prove independently observed conversations, and a partial observation window does not establish complete coverage.
+- **More useful FLUX research:** selected-project historical research now has clearer explanations and source-coverage disclosures, with an intentional option to copy a research brief that preserves the evidence limitations. Future premium access and additional usage models remain product development work, not activated payments or token credits.
+- **Controlled action readiness:** engineering continues to strengthen the relationship between an intended action, a reviewed transaction, owner authorization and eventual verified settlement. This is verification work, **not** evidence that any live FlowFi trade has been executed or that trading access has opened.
+
+**Availability:** LIVE, Results and FLUX are evolving research experiences. Some of the changes above still require independent production acceptance. The presence of a recorded price, source-pool match or historical peak does **not** establish an executable trade or realized investment return. **Public trading execution remains disabled.** Wallet Beta, Studio and Pro are governed by separate access and release decisions, and no FLOWFI token launch is announced here.
+
+**Next:** verify LIVE observation freshness and pool continuity under normal production conditions, continue improving the honesty of Results and Social evidence, and complete independent transaction-authorization and settlement checks before any financial execution announcement.
+
 ## 2026-10-15 — Smarter evidence in LIVE, more reliable wallet foundations
 
 The last two days have moved several parts of FlowFi forward. The focus remains **Noise → Clarity → Action**: make the research genuinely more useful, explain what the data proves, and prepare future actions without overstating availability.
