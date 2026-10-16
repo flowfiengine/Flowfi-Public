@@ -24,7 +24,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 
 - **Studio Free:** progress verified project-owner claims, independent review, and a private, read-only Project Pulse workspace. Availability depends on separate release acceptance; incomplete market or social coverage remains clearly identified.
 - **Launch Lab preparation:** refine local project briefs, independent website/community checks and image-readiness guidance before any approved token launch. Showcase and preparation do not grant ownership verification or mint permission.
-- **Studio OS:** develop browser-local brand and content planning with honest availability labels; launch execution and automated creator operations remain separate future capabilities.
+- **Studio OS:** refine guided creation, private project drafts and owner-managed artwork with separate release reviews; token launches and general AI image generation are not enabled by this roadmap.
 - **FlowFi Pro:** keep the coming-soon experience and waitlist visible while evaluating advanced research and personalization. Waitlist access is not feature availability, and no Pro billing or release date is announced here.
 
 ## In controlled testing — wallet and action flows
