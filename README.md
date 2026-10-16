@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 15 — Evening:** FlowFi has advanced LIVE Sphere reliability, source-aware project observation, and clearer Results evidence. We are improving how the product distinguishes current from delayed observations, historical peaks with known or unknown pool provenance, and trustworthy Social signals. FLUX research now includes richer evidence explanations and an optional research-brief export. These are measured research and engineering milestones, **not a trade or token-launch announcement**. **Public trading execution remains disabled**, and Pro is coming soon. See the [development log](DEVLOG.md) for details.
+**October 16:** FlowFi is shaping **Studio OS** into a guided **Create → Verify → Launch → Grow → Understand** experience, with controlled work on private project drafts, logo/banner uploads and creator artwork. The **Early Network** now explains current Season 0 Attention more clearly while keeping future Lifetime XP separate from rewards available today. Evidence-based LIVE and Results research checkpoints are in restricted, non-awarding testing. The Trading Terminal's owner-authorization, route-review and settlement foundations continue progressing, **without enabling public BUY/SELL execution**. No public token launch or general AI image generation is announced; **Pro remains coming soon**. See the [development log](DEVLOG.md) for context.
 
 ## Share your ideas
 
