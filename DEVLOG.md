@@ -2,6 +2,21 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-16 — Studio OS takes shape, and the Early Network gets clearer
+
+FlowFi is working toward an experience where discovering activity, understanding the evidence and preparing what comes next feel connected. Today's progress is especially visible in **Studio OS** and the **Early Network**, with careful engineering continuing behind the Trading Terminal.
+
+- **Studio OS becomes a guided creator experience:** the creator journey now has a clearer five-part direction—**Create → Verify → Launch → Grow → Understand**—with more polished mobile and desktop presentation. Examples show how a project identity, brand direction and launch preparations could fit together, while keeping illustrative previews distinct from an approved token launch.
+- **A practical place to prepare projects:** controlled creator-dashboard work supports account-owned drafts, reopening saved project information and managing project artwork. Logo and banner guidance, uploads and preview-before-save flows are being refined so creators can prepare their materials without deploying a token. Broader availability and individual workflows remain subject to acceptance.
+- **Creative tools with honest boundaries:** a richer artwork-generation experience is being developed for a separately controlled pilot, alongside manual uploads and a private artwork library. **AI generation is not generally enabled by this update**, and saving artwork never issues a token or approves a launch.
+- **A more understandable Early Network:** the current **Season 0 Attention** experience now better explains verified ways to participate, progress and existing point balances. It also shows a clearly marked direction for future **Lifetime XP**. Future conversion examples, research checkpoints and possible rewards are **not earned or claimable today** merely because they appear in a preview.
+- **Research that can be verified:** we are testing deliberate LIVE and Results research checkpoints that refer back to recorded project observations. These experiments are restricted, evidence-based and **do not award XP or Attention**. Observing a project or answering a question is not proof of a future investment outcome.
+- **Action preparation remains separate from action:** work continues on exact trading-route review, owner authorization and settlement evidence, including SELL-side safeguards. These are controlled engineering checks, not confirmation of a funded BUY or SELL. Market research remains distinct from permission to execute transactions.
+
+**Availability:** Public LIVE, Results and the evolving Studio OS introduction are research and product-discovery experiences. Creator drafts, artwork operations and research checkpoint pilots have separate access and rollout requirements. **Public trading is disabled; token launch execution and general AI image generation are not announced as available.** FlowFi Pro remains coming soon. Historical market observations are not predictions, realized trading returns or investment advice.
+
+**Next:** complete creator workflow acceptance across mobile and desktop, keep existing Attention separate from unlaunched XP, improve research consistency, and only widen creator or trading access after independent release checks.
+
 ## 2026-10-15 — Evening progress: clearer LIVE evidence and more accountable Results
 
 Today we made another important push toward FlowFi's core promise: **Noise → Clarity → Action**. Research is only useful when people can tell which observations are current, which historical comparisons are meaningful, and where proof is still missing.
