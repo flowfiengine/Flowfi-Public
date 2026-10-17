@@ -10,22 +10,22 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Recorded-outcome coverage:** make missing observations understandable and validate audited 1h, 6h, 24h and 7d coverage summaries without confusing sampling coverage with trading results.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
 - **Reliable observation freshness:** do not make a retained or delayed LIVE observation appear new; validate consistent source-pool identity before comparing project activity across snapshots.
-- **Transparent Results provenance:** separate historically recorded milestone counts from pool-source-matched subsets, keeping unknown historical evidence visible and clearly labeled.
+- **Transparent Results provenance:** separate recorded milestones from pool-source-matched subsets, label unknown historical evidence clearly, and withhold anomalous peaks until supporting observations are reviewed.
 - **Chart data integrity:** distinguish real sampled observations, licensed market data and explicitly synthetic chart demonstrations. Never present a demo as live or delayed price history.
 - **FLUX research clarity:** improve evidence-backed comparisons between recorded LIVE observations, including 5-minute and 1-hour research windows when trustworthy history exists. Mark stale, incomplete or incomparable evidence unavailable.
 - **FLUX research quality:** show whether comparable observations actually exist, disclose missing price or rolling-volume fields, and retain those limitations in user-requested research exports.
 - **Clear labels:** distinguish observed information from inference, and show when information is partial, delayed or historical.
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
 - **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
-- **Returning-member journey:** offer visible, unobstructed Getting Started controls, explain Early Network enrollment before X connection, and recognize participation only when it can be verified.
+- **Returning-member journey:** make it easy to return from a Results project to device-local saved research, preserve intended destinations through sign-in, and keep Getting Started and Early Network participation clear. Device-local saves are not account-synced investments or trades.
 - **Social signals:** expand only where coverage and evidence can be represented accurately; do not describe selective observations as a complete view.
 
 ## In development — Studio Free and Pro
 
 - **Studio Free:** progress verified project-owner claims, independent review, and a private, read-only Project Pulse workspace. Availability depends on separate release acceptance; incomplete market or social coverage remains clearly identified.
 - **Launch Lab preparation:** refine local project briefs, independent website/community checks and image-readiness guidance before any approved token launch. Showcase and preparation do not grant ownership verification or mint permission.
-- **Studio OS:** refine guided creation, private project drafts and owner-managed artwork with separate release reviews; token launches and general AI image generation are not enabled by this roadmap.
-- **FlowFi Pro:** keep the coming-soon experience and waitlist visible while evaluating advanced research and personalization. Waitlist access is not feature availability, and no Pro billing or release date is announced here.
+- **Studio OS:** prioritize a simple name/ticker/description project preview, private draft saving, optional branding and artwork, and upfront cost context before deeper preparation. Premium creative and campaign tools require separate access reviews; this roadmap does not enable token launches or public AI generation.
+- **FlowFi Pro:** keep the coming-soon experience and waitlist visible while developing advanced research, optional saved chart layouts and additional FLUX capacity. Independent entitlements, privacy assurances and release approval remain required; no Pro billing or launch date is announced here.
 
 ## In controlled testing — wallet and action flows
 
