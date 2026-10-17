@@ -8,6 +8,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Creator referrals:** make optional codes understandable and confirmed registrations distinguishable from link views; no automatic reward promises.
 - **LIVE and Results:** continue improving the Solana-first discovery experience, project context, attention views and recorded outcome history.
 - **Recorded-outcome coverage:** make missing observations understandable and validate audited 1h, 6h, 24h and 7d coverage summaries without confusing sampling coverage with trading results.
+- **Weekly Review:** help readers compare the recorded top weekly projects in a focused Results view, with traceable first-observed baselines and honest distinctions between active review and any saved historical edition.
 - **Research workspace:** refine native chart readability, timeframes, common research actions and the relationship between the chart and surrounding context.
 - **Reliable observation freshness:** do not make a retained or delayed LIVE observation appear new; validate consistent source-pool identity before comparing project activity across snapshots.
 - **Transparent Results provenance:** separate recorded milestones from pool-source-matched subsets, label unknown historical evidence clearly, and withhold anomalous peaks until supporting observations are reviewed.
@@ -18,7 +19,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Market-data reliability:** validate shared live streaming through bounded freshness tests before Preview or public use, with strict stale-data fallback rather than treating an open connection as proof of current data.
 - **Usability:** simplify controls and improve desktop/mobile navigation without adding unnecessary interface complexity.
 - **Returning-member journey:** make it easy to return from a Results project to device-local saved research, preserve intended destinations through sign-in, and keep Getting Started and Early Network participation clear. Device-local saves are not account-synced investments or trades.
-- **Social signals:** expand only where coverage and evidence can be represented accurately; do not describe selective observations as a complete view.
+- **Social signals:** distinguish observed impressions from meaningful reactions, identify whether participation is concentrated or spread across sampled independent sources, and refuse to infer social silence from partial coverage. Research should be measured against later observations without hindsight leakage; commercial derived-data access remains a separately reviewed future direction.
 
 ## In development — Studio Free and Pro
 
@@ -26,6 +27,7 @@ This is a **directional product roadmap**, not a delivery schedule or a promise 
 - **Launch Lab preparation:** refine local project briefs, independent website/community checks and image-readiness guidance before any approved token launch. Showcase and preparation do not grant ownership verification or mint permission.
 - **Studio OS:** prioritize a simple name/ticker/description project preview, private draft saving, optional branding and artwork, and upfront cost context before deeper preparation. Premium creative and campaign tools require separate access reviews; this roadmap does not enable token launches or public AI generation.
 - **FlowFi Pro:** keep the coming-soon experience and waitlist visible while developing advanced research, optional saved chart layouts and additional FLUX capacity. Independent entitlements, privacy assurances and release approval remain required; no Pro billing or launch date is announced here.
+- **FLUX risk research:** continue testing distinct Low, Medium and High paper-only risk profiles that can reject weak or uneconomical opportunities. Record source-time research decisions before later market results, compare them with rejected opportunities and cash, and require independently validated after-cost results before considering optional automatic trading. No risk profile guarantees capital protection.
 
 ## In controlled testing — wallet and action flows
 
