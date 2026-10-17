@@ -2,6 +2,21 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+## 2026-10-17 — From discovery to a clearer next step
+
+FlowFi's work is increasingly focused on the experience people actually have: **discover something worth researching, understand the evidence, and know what they can do next**. This round of improvements makes that journey simpler without confusing preparation with a financial launch.
+
+- **A faster first project in Studio:** Studio OS is moving toward a straightforward **name → ticker → description → preview** experience. Creators can prepare a private project draft first, then return for branding, artwork and deeper launch planning when they're ready. Recent interface work also reduces repeated setup and puts potential launch costs ahead of advanced technical review. **Creating a draft is not launching a token.**
+- **A more useful Premium Studio OS story:** the Product experience is being updated to explain what the creator journey offers today and where richer creative, campaign and intelligence tools are heading. Some creative tools are limited to controlled pilots; premium availability, payments and live token launching require separate approval.
+- **Explore, save and return to research:** the visitor journey has improved across the homepage, LIVE and Results. A recorded Results project can be saved to an existing **device-local** Terminal watchlist and revisited without a mandatory account. Returning visitors with saved projects can find a shorter way back to them, and sign-up improvements aim to preserve the page they intended to open. These are convenience features, **not account-synced investments or trade activity**.
+- **More accountable Results:** a production review identified and corrected an isolated, implausible historical peak. Additional safeguards aim to quarantine suspicious jumps instead of displaying an unsupported milestone as fact. We continue to distinguish a recorded high from a comparable source-pool observation, and neither is proof of an executable trade or investor profit.
+- **FlowFi Pro development:** advanced research access, saved chart layouts, FLUX capacity and optional execution-protection controls are progressing behind explicit eligibility and release checks. The existing Free research experience is not contingent on a Pro subscription. **Pro remains coming soon; this update does not activate billing, entitlements or protected trading.**
+- **Progress behind the Trading Terminal:** controlled transaction-review and settlement components now have deeper integrated tests and restricted worker connections. Those tests build toward accurate owner-authorized BUY/SELL accounting, but **live order signing, broadcasting and public trading remain disabled**. Passing a simulated lifecycle is not a funded transaction.
+
+**Availability:** This journal describes selected merged development progress, not an assertion that every interface has passed independent public production acceptance. LIVE and Results are research products. Studio project preparation and limited creative access have separate availability rules. **No general token launch, paid-service checkout or public trading execution is announced.** Missing evidence remains missing, and historical observations are not financial predictions.
+
+**Next:** verify the simplified Studio and returning-visitor journeys on real mobile and desktop devices, keep Results historical claims attributable and reviewable, and complete financial-action release checks independently before expanding any creator or trading capabilities.
+
 ## 2026-10-16 — Studio OS takes shape, and the Early Network gets clearer
 
 FlowFi is working toward an experience where discovering activity, understanding the evidence and preparing what comes next feel connected. Today's progress is especially visible in **Studio OS** and the **Early Network**, with careful engineering continuing behind the Trading Terminal.
