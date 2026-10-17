@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 16:** FlowFi is shaping **Studio OS** into a guided **Create → Verify → Launch → Grow → Understand** experience, with controlled work on private project drafts, logo/banner uploads and creator artwork. The **Early Network** now explains current Season 0 Attention more clearly while keeping future Lifetime XP separate from rewards available today. Evidence-based LIVE and Results research checkpoints are in restricted, non-awarding testing. The Trading Terminal's owner-authorization, route-review and settlement foundations continue progressing, **without enabling public BUY/SELL execution**. No public token launch or general AI image generation is announced; **Pro remains coming soon**. See the [development log](DEVLOG.md) for context.
+**October 17:** FlowFi is making the path from **discovery → evidence → the next step** easier to use. Studio OS now has a simpler first-project journey with private drafts, quick previews and clearer cost disclosures before any launch. Visitors can move between LIVE, Results and device-local saved research more easily; Results is receiving stronger checks against misleading historical peaks. The Product page also reflects our evolving **Premium Studio OS** direction, while **FlowFi Pro remains coming soon**. Trading settlement and authorization engineering is advancing under controlled tests, but **public trading, live token launching and paid checkout are not enabled by this update**. Read the [development log](DEVLOG.md) for context.
 
 ## Share your ideas
 
