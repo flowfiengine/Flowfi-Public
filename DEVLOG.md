@@ -2,6 +2,22 @@
 
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
+
+## 2026-10-17 — Evening update: clearer Weekly Review, stronger Social evidence, and responsible FLUX research
+
+This evening's progress advances a simple principle: **FlowFi should help people understand an opportunity without pretending that an observed signal is a safe or profitable trade.**
+
+- **A more useful Weekly Review:** the Results experience now brings a **Top 8 weekly project review into a focused popup**, using recorded project artwork when available and actual historical peak comparisons relative to each project's first tracked observation. The figures describe **sampled market prices—not trades, investment profits or guarantees**. Weekly archive/history remains a separate staged capability; older editions should not be invented when a saved historical snapshot does not exist.
+- **More trustworthy Social Intelligence:** newer evidence processing distinguishes **observed views/impressions from reactions** and asks whether activity spans distinct accounts and conversations rather than being concentrated in one apparent source. Attribution has also been refined so accounts associated with multiple projects do not automatically count as independent project-specific confirmation. Observation coverage remains selective: missing posts or an incomplete window do **not** prove a project has no social activity.
+- **Better learning from observed outcomes:** internal, evidence-first analysis can compare information **recorded before** a later market observation with what was subsequently observed. Incomplete social sampling, missing prices and changes of trading pool must be called out. This is exploratory research, **not a validated predictive model, trading backtest or a publicly available intelligence API**.
+- **FLUX Pro: a capital-protection direction:** we're testing three **Low, Medium and High** paper-trading risk profiles. A proposed research policy checks liquidity, observation freshness, cost assumptions, exit monitoring and exposure limits, and can deliberately respond **“No trade”** rather than forcing a position. These are experimental risk controls, **not guarantees against losses** or active user trading settings.
+- **Forward-only strategy measurement:** a restricted research journal is prepared to record future project signals and the evidence available **when they first appear**, including rejected candidates. Later outcomes can then be compared without selecting past winners after the fact. The research journal does not issue orders or represent actual wallet performance. Our aim is to establish robust results **after costs and across new periods of data** before proposing autonomous features.
+
+**Availability:** Weekly Review is part of the Results research experience; archive editions depend on separately completed history capture. Social research coverage is incomplete and must be interpreted with its source limitations. **FLUX auto-trading, public trade execution, paid Pro access, general token launching and a commercial Intelligence API are not announced as available.** Controlled tests, paper decisions and displayed historical multiples are not funded transactions or financial returns.
+
+**Next:** keep improving the clarity and source quality of market and Social observations, collect new forward-looking FLUX research evidence, and independently validate execution, exits and risk controls before any optional trading rollout.
+
+
 ## 2026-10-17 — From discovery to a clearer next step
 
 FlowFi's work is increasingly focused on the experience people actually have: **discover something worth researching, understand the evidence, and know what they can do next**. This round of improvements makes that journey simpler without confusing preparation with a financial launch.

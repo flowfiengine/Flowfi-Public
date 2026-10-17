@@ -31,7 +31,7 @@ You can **Star** this repository to support the project or **Watch** it to follo
 
 ## Latest development update
 
-**October 17:** FlowFi is making the path from **discovery → evidence → the next step** easier to use. Studio OS now has a simpler first-project journey with private drafts, quick previews and clearer cost disclosures before any launch. Visitors can move between LIVE, Results and device-local saved research more easily; Results is receiving stronger checks against misleading historical peaks. The Product page also reflects our evolving **Premium Studio OS** direction, while **FlowFi Pro remains coming soon**. Trading settlement and authorization engineering is advancing under controlled tests, but **public trading, live token launching and paid checkout are not enabled by this update**. Read the [development log](DEVLOG.md) for context.
+**October 17 — evening:** Results now has a clearer **Top 8 Weekly Review**, while Social Intelligence research more carefully separates observed reactions from impressions and distinguishes project-specific evidence from ambiguous attribution. Behind the scenes, **FLUX** is advancing through paper-only Low, Medium and High risk research, including an explicit **“No trade”** outcome and forward-only evidence collection. These are measured research and engineering milestones, **not verified trading returns or an announcement of autonomous trading**. Studio OS continues to simplify project preparation. **FlowFi Pro, public trading, token launches and paid checkout remain subject to separate release approval.** Read the [development log](DEVLOG.md) for details.
 
 ## Share your ideas
 

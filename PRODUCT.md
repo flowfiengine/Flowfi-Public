@@ -26,6 +26,10 @@ Free Capital Intelligence brings project-level trading volume and available buy/
 
 We want to put observations in context, make uncertainty visible, and help people research rather than blindly follow a signal.
 
+### FLUX and disciplined research (in development)
+
+FLUX is evolving toward a more useful research assistant for people who want to evaluate opportunities thoughtfully. We're exploring **Low, Medium and High** paper-only risk profiles with an important shared principle: **sometimes the right decision is not to trade**. Before considering any optional automated action, research must account for fresh evidence, costs, liquidity, potential exits, missing observations and explicit user control. These experimental profiles are **not available automated trading services**, guaranteed loss limits or verified profitable strategies.
+
 ## Our product principles
 
 - **Clarity over noise.** Highlight what matters without making every change look urgent.
