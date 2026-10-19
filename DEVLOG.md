@@ -3,6 +3,21 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+
+## 2026-10-19 — FLUX intelligence: clearer decisions and forward-only learning
+
+**FLUX is evolving from a market explanation into a more useful research companion.** The updated Terminal experience puts evidence and reasons to stand aside ahead of promotional information, while keeping execution and strategy performance claims separate.
+
+- **A clearer FLUX Decision Lens:** traders can review source-backed market checks, distinguish a token worth *further investigation* from one with insufficient evidence, and explore cautious, balanced and speculative **paper-only** research profiles. These are not investment recommendations, actionable quotes or live portfolio settings.
+- **Exit discipline remains central:** the Terminal can explain existing staged-exit research hypotheses and why liquidity, fresh monitoring and sellability matter. A displayed target is never a guaranteed fill, profit or recovery of principal.
+- **Better forward-only learning:** a private, immutable research checkpoint now records a token's **documented transition from calibration to verified readiness**, using consecutive published observations. This does not rewrite the token's original First Tracked evidence, retroactively select winners or change any previously recorded decisions. Missing transitions remain missing instead of being reconstructed.
+- **Community research made easier:** FlowFi Social now uses **Insights** throughout the community, token views and in-app notifications. Members can voluntarily share an insight from a token, follow others and revisit linked discussions without publishing their wallets or trading histories.
+
+**Availability:** FLUX Decision Lens and Social Insights are available in the current website experience. The new FLUX calibration checkpoint is **restricted internal paper research**, collecting only future eligible events; it is not an open API, user-facing performance model or trade executor. No validated profitable strategy, funded autonomous trading, reliable executable returns or guaranteed stop-loss results are announced. Trading remains separately gated.
+
+**Next:** observe new readiness transitions over time, preserve rejected and missing outcomes alongside candidates, then compare fixed future cohorts and costs before changing any research thresholds or proposing FLUX trading capabilities.
+
+
 ## 2026-10-17 — Evening update: clearer Weekly Review, stronger Social evidence, and responsible FLUX research
 
 This evening's progress advances a simple principle: **FlowFi should help people understand an opportunity without pretending that an observed signal is a safe or profitable trade.**
