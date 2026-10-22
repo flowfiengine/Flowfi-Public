@@ -3,6 +3,19 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-22 — Terminal workspace polish: project links and clearer Early Radar access
+
+**A small but useful refinement to the research workspace.** The Terminal header now keeps quick links to a project's website, X account, Telegram group (when the project publishes them) and Solscan page directly under the ticker, so researchers can verify a project from the source without opening extra panels.
+
+- **Early Radar projects open in the workspace with a friendly note.** Brand-new markets move quickly, so the workspace now reminds you that prices can change fast and shows live context instead of closing the project off.
+- **Layout stays compact on phones.** The quick links appear on tablet and desktop widths; on phones they remain one tap away under the Info button so the chart keeps its space.
+- **Wallet performance and price freshness.** Position views continue to show their evidence source and clearly mark any price that is not recent, rather than guessing.
+
+**Availability:** these are improvements to the existing research experience. Trading, orders, deposits and wallet funding are **not** enabled, and nothing here is an investment recommendation.
+
+**Next:** continue device and accessibility checks across the workspace and keep sharing approved previews as they are ready.
+
+
 
 ## 2026-10-19 — FLUX intelligence: clearer decisions and forward-only learning
 
