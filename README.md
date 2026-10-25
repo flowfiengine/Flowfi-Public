@@ -2,45 +2,35 @@
 
 # FlowFi
 
-**See where crypto attention is moving.**
+**Intelligence in the back. Clarity in the front.**
 
-FlowFi is building a visual discovery experience to help people explore emerging activity across crypto. Our goal is to make fast-moving signals easier to understand through clear context, intuitive visualizations, and an experience designed for discovery rather than noise.
+FlowFi finds Solana tokens early, shows you why, and lets you act on it, all in one place.
 
-## What we're building
+## The platform
 
-- **Attention Sphere:** an interactive way to explore projects and shifts in attention.
-- **Solana Market Sphere:** a central Solana hub linked to LIVE-validated and provisional Early Radar projects with observed trading activity.
-- **Free Capital Intelligence:** project-level trading volume and available buy/sell transaction counts, with honest coverage and freshness labels.
-- **Accessible discovery:** a compact Early Radar experience and consistent desktop and mobile project research.
-- **Research and Results:** evolving chart-first project context alongside recorded outcomes, with clear distinctions between observations and predictions.
+- **Live:** the Sphere maps where attention and trading activity are moving right now. **Early Radar** surfaces brand-new tokens before they are validated.
+- **Terminal:** a chart-first workspace. Price or market cap, the exact point where FlowFi caught a token, large trades on the candles, and **Quick Mode** for one-tap buys and sells.
+- **Results:** every token FlowFi caught, measured from the first catch, with the peak and where it is now.
+- **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in.
+- **Wallet:** your FlowFi wallet. Your keys stay yours; withdrawals need your passkey and an email code.
+- **Pro:** deeper intelligence, more alerts and saved layouts, and FLUX trading agents. Coming soon.
 
-These are product directions, not a claim that every capability is publicly released. Features and scope may change as we learn.
+## Latest update
 
-## Follow development
+**October 25:** The trading terminal is ready for its first beta group. Quick Mode, a live position card that follows you across the site, price or market-cap charts, and a fixed FlowFi marker where we first caught each token. Buys that would move the price more than 5% are refused to protect you on thin pools. Results now credit the earliest catch: a token found on Early Radar is measured from that moment. Read the [development log](DEVLOG.md).
 
-This repository is our **public development journal**. We publish selected, reviewed updates about product direction, visible milestones, and opportunities to provide feedback.
+## Follow along
 
-- [The FlowFi vision](PRODUCT.md)
-- [Conceptual showcase](SHOWCASE.md)
-- [Public roadmap](ROADMAP.md)
-- [Development log](DEVLOG.md)
-- [Official website updates](https://flowfiengine.app/updates)
-- [Community feedback](CONTRIBUTING.md)
+- [Vision](PRODUCT.md) · [Roadmap](ROADMAP.md) · [Development log](DEVLOG.md) · [Showcase](SHOWCASE.md)
+- [Website updates](https://flowfiengine.app/updates)
+- Ideas and feedback: open an [Issue](https://github.com/flowfiengine/Flowfi-Public/issues) (see [CONTRIBUTING.md](CONTRIBUTING.md)). Never post credentials, recovery phrases or wallet details.
 
-You can **Star** this repository to support the project or **Watch** it to follow new updates.
+**Star** the repo to support FlowFi, or **Watch** it for new updates.
 
-## Latest development update
+## Public journal, private technology
 
-**October 17 — evening:** Results now has a clearer **Top 8 Weekly Review**, while Social Intelligence research more carefully separates observed reactions from impressions and distinguishes project-specific evidence from ambiguous attribution. Behind the scenes, **FLUX** is advancing through paper-only Low, Medium and High risk research, including an explicit **“No trade”** outcome and forward-only evidence collection. These are measured research and engineering milestones, **not verified trading returns or an announcement of autonomous trading**. Studio OS continues to simplify project preparation. **FlowFi Pro, public trading, token launches and paid checkout remain subject to separate release approval.** Read the [development log](DEVLOG.md) for details.
+This repository is FlowFi's public development journal. The application and its engineering stay private, and nothing here is open source or a licence to use the brand.
 
-## Share your ideas
-
-[Join our first public discussion](https://github.com/flowfiengine/Flowfi-Public/issues/1) or open a GitHub Issue. Suggestions and product feedback are welcome. Please check [CONTRIBUTING.md](CONTRIBUTING.md) before posting. Never include credentials, private account details, recovery phrases, or sensitive wallet information.
-
-## Public development, private technology
-
-The FlowFi application and its internal engineering repository remain private. This repository contains separately authored, approved public material only. Public visibility does **not** mean the application source is open source or that brand assets are licensed for reuse.
-
-FlowFi is an informational product in development, not financial or investment advice.
+FlowFi is a research and trading tool, not financial advice. Crypto is volatile; only trade what you can afford to lose.
 
 © 2026 FlowFi. All rights reserved.
