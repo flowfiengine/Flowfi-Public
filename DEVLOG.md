@@ -3,6 +3,27 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-25 — Trading terminal ready for beta, smarter LIVE, and Results that credit the first catch
+
+**The terminal is ready for its first beta group.**
+
+- **Quick Mode:** one-tap buys in SOL or USDC and sells by percent of your position, with sizes you can edit. On phones it sits as a compact sheet under the chart.
+- **Your position follows you:** a live position card shows your open trade and profit or loss wherever you are on the site.
+- **A clearer chart:** switch between price and market cap. One price everywhere, so the header and chart always agree. A fixed FlowFi marker sits on the candle where we first caught the token, large trades appear as dots on their own candles, and your own buys and sells are marked.
+- **Safety first:** buys that would move the price more than 5% are refused with a plain message. Your keys stay yours, and every withdrawal needs your passkey and an email code.
+- **Rewards for trading:** every trade earns XP and fee cashback, recorded from your first trade.
+
+**LIVE finds more, earlier.** Early Radar now covers tokens up to 24 hours old, and LIVE checks real buying across the full last hour on busy tokens. A token that has entered LIVE no longer shows up again as "early".
+
+**Results credit the first catch.** When Early Radar caught a token before LIVE validated it, the result is measured from the Early Radar moment. The headline, the share card and the list now agree, and times are shown in Eastern.
+
+**One platform.** Five sections: Live, Terminal, Results, Studio and Wallet. Rewards live in your profile, and Pro has one page.
+
+**Studio:** launch your token for $19, with review before you pay, the FlowFi Verified badge, a project page and launch protection. Studio launches open with $FLOWFI.
+
+**Availability:** trading opens first to a 25-member beta group from the top of the Early Network leaderboard. Pro, FLUX trading agents and Studio launches are coming next. Nothing here is financial advice.
+
+
 ## 2026-10-22 — Terminal workspace polish: project links and clearer Early Radar access
 
 **A small but useful refinement to the research workspace.** The Terminal header now keeps quick links to a project's website, X account, Telegram group (when the project publishes them) and Solscan page directly under the ticker, so researchers can verify a project from the source without opening extra panels.
