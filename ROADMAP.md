@@ -2,30 +2,23 @@
 
 Where FlowFi is heading, in order. Directional, not a delivery schedule: we share each step when it is ready.
 
-## Now: trading beta
+## Live now
 
-- **Beta group of 25:** trading opens first to the top 25 of the Early Network leaderboard. Stay active on X and complete your daily tasks to hold a seat.
-- **Launch promo:** a reduced trading fee and boosted XP for the first 30 days with a promo code.
-- **Terminal polish:** Quick Mode, the live position card, price or market-cap charts, FlowFi markers and trade dots, tested on desktop and mobile.
-- **Rewards:** trading XP and fee cashback are recorded from the first trade. Payouts open after review.
+- **Trading beta:** trading opens first to the top 25 of the Early Network leaderboard. Trading XP and fee cashback are recorded from the first trade.
+- **Network:** work profiles, follows, Insights, private messages, **FlowFi Pay** and **Bounties** with reviews and a public reputation record.
 
 ## Next: $FLOWFI and Studio launches
 
-- **Validate the base** before new users arrive: wallet, trading, LIVE, Results and rewards working end to end.
-- **$FLOWFI token launch.**
-- **Studio launches:** $19 per launch, review before you pay, the FlowFi Verified badge, a project page and launch protection.
+- **$FLOWFI token launch**, on FlowFi's own launchpad.
+- **Studio launches:** $19 per launch, review before you pay, the FlowFi Verified badge, a project page and launch protection. Creators earn 48% of every trading fee.
+- **Pay with $FLOWFI:** for FlowFi services, and a lower fee on FlowFi Pay.
 
 ## Then: FlowFi Pro
 
-- **Deeper intelligence:** advanced filters and longer history.
-- **More alerts and saved layouts:** the free plan includes alerts and saved layouts; Pro raises the limits.
-- **FLUX trading agents.**
-- **Private payments between users:** hire and pay people inside FlowFi.
-
-## Later: FlowFi Social
-
-- Follow other traders and their activity.
-- Share **Insights** on a token, shown on its chart with your profile picture.
+- **FLUX Pro:** more analyses a day, plus Decision Lens.
+- **Advanced filters and deeper history.**
+- **Higher limits:** more alerts and saved workspaces. The free plan keeps alerts and saved workspaces.
+- **Later in Pro:** FLUX trading agents, perps, protected trading and an iOS app.
 
 ## Help shape FlowFi
 
