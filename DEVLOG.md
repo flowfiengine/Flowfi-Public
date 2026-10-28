@@ -3,6 +3,30 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-28 — FlowFi Pro is live: Perps, a trading seat, a privacy layer and a 3-day free trial
+
+**FlowFi Pro is open to everyone.** One membership adds:
+
+- **Perps:** go long or short on SOL, ETH and BTC with USDC from your FlowFi wallet. Set take profit and stop loss before you send the order, then drag them on the chart to move them in a single step, with your stop staying active the whole time. Turn on one-tap orders once with your passkey; after that, opening, closing and moving targets are one tap. Positions show their entry, liquidation price and targets on the chart, with a history of past trades, price alerts and a full-screen mode on desktop and phones.
+- **A seat in the Trading Beta:** every Pro member can trade tokens in the Terminal, at the Pro fee of **0.50%** instead of 0.75%.
+- **Privacy layer:** a private USDC balance, encrypted on Solana. Only your passkey can reveal it.
+- **Instant Early Radar alerts:** the second Early Radar catches a token, it's in your bell, one tap from Quick Mode.
+- **Pro charts:** RSI, MACD, Bollinger, your own moving averages, and levels and trendlines saved per token, with alerts on your lines.
+- **FLUX Pro, deeper history and higher limits:** 50 FLUX analyses a day, Decision Lens on your own positions, every catch at 1h, 6h, 24h and 7d, more alerts and saved workspaces.
+
+**Try it free.** Start 3 days of Pro with one tap on the Pro page, no payment. After that, Pro is $29 for 30 days, paid in USDC or SOL from your FlowFi wallet, and nothing renews by itself. **Launch week:** your first 30 days are **$19** until October 31.
+
+**Also new this week**
+
+- **Convert SOL and USDC** inside your Wallet in one step.
+- **FLUX payments** are reviewed and approved with your passkey right inside the FLUX panel.
+- **Sharing a catch** now posts a short link, a short post about the token and a wide preview card that shows in full on X; on phones the card image is attached to the post.
+- **A smoother chart:** the candle readout is a single slim line, the Perps chart fills more of a phone screen, dragging sticks to time or price, pinch-zoom stays where your fingers are, and moving a line no longer turns your next swipe into a zoom.
+- **"What you missed"** recaps of the best recent catches now post in the FlowFi Telegram up to four times a day.
+
+**Availability:** Pro, Perps and the privacy layer are live now. Leverage trading can lose your whole collateral. Nothing here is financial advice.
+
+
 ## 2026-10-26 — Network: find people, hire them, pay them, and launch on the same platform
 
 **Community is now Network.** It is where you find the people to build with, not only traders to follow.
