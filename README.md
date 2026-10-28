@@ -14,11 +14,11 @@ FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then fi
 - **Network:** work profiles, follows and private messages. Hire people with **FlowFi Pay**, or post a **Bounty** and pick the best bid.
 - **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in. Creators earn 48% of every trading fee.
 - **Wallet:** your FlowFi wallet. Your keys stay yours; withdrawals need your passkey and an email code.
-- **Pro:** deeper intelligence, more alerts and saved layouts, and FLUX trading agents. Coming soon.
+- **Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, a private balance, instant Early Radar alerts and Pro charts. **Live now, 3 days free.**
 
 ## Latest update
 
-**October 26:** Community is now **Network**: work profiles, FlowFi Pay, Bounties with private bids and reviews, and private messages. Studio now leads with the launch engine and your creator dashboard, the chart labels smart-money trades, and Pro has a proper page. Read the [development log](DEVLOG.md).
+**October 28:** **FlowFi Pro is live.** Perps on SOL, ETH and BTC with take profit and stop loss you drag on the chart, a seat in the Trading Beta at the 0.50% Pro fee, a privacy layer, instant Early Radar alerts and Pro charts. Start 3 days free with one tap; launch week, your first 30 days are $19 until October 31. Read the [development log](DEVLOG.md).
 
 ## Follow along
 

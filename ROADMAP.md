@@ -4,7 +4,8 @@ Where FlowFi is heading, in order. Directional, not a delivery schedule: we shar
 
 ## Live now
 
-- **Trading beta:** trading opens first to the top 25 of the Early Network leaderboard. Trading XP and fee cashback are recorded from the first trade.
+- **FlowFi Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, a privacy layer, instant Early Radar alerts, Pro charts, FLUX Pro, deeper history and higher limits. 3 days free.
+- **Trading beta:** open to the top 25 of the Early Network leaderboard and to every Pro member. Trading XP and fee cashback are recorded from the first trade.
 - **Network:** work profiles, follows, Insights, private messages, **FlowFi Pay** and **Bounties** with reviews and a public reputation record.
 
 ## Next: $FLOWFI and Studio launches
@@ -13,12 +14,11 @@ Where FlowFi is heading, in order. Directional, not a delivery schedule: we shar
 - **Studio launches:** $19 per launch, review before you pay, the FlowFi Verified badge, a project page and launch protection. Creators earn 48% of every trading fee.
 - **Pay with $FLOWFI:** for FlowFi services, and a lower fee on FlowFi Pay.
 
-## Then: FlowFi Pro
+## Then: more in Pro
 
-- **FLUX Pro:** more analyses a day, plus Decision Lens.
-- **Advanced filters and deeper history.**
-- **Higher limits:** more alerts and saved workspaces. The free plan keeps alerts and saved workspaces.
-- **Later in Pro:** FLUX trading agents, perps, protected trading and an iOS app.
+- **Take profit and stop loss on token trades**, limit orders and protected trading.
+- **Private transfers.**
+- **FLUX trading agents** and an **iOS app**.
 
 ## Help shape FlowFi
 
