@@ -11,7 +11,7 @@ Where FlowFi is heading, in order. Directional, not a delivery schedule: we shar
 ## Next: $FLOWFI and Studio launches
 
 - **$FLOWFI token launch**, on FlowFi's own launchpad.
-- **Studio launches:** $19 per launch, review before you pay, the FlowFi Verified badge, a project page and launch protection. Creators earn 48% of every trading fee.
+- **Studio launches:** $19 per launch, review before you pay, the FlowFi Verified badge, a project page and launch protection. Creators keep 100% of the creator reward on every trade.
 - **Pay with $FLOWFI:** for FlowFi services, and a lower fee on FlowFi Pay.
 
 ## Then: more in Pro
