@@ -38,7 +38,7 @@ Selected updates about product progress and direction. This journal is written f
 - **A reputation you can check:** profiles show paid jobs, star ratings and a poster's bounty record, including work delivered but not paid.
 - **Private messages:** every bid has a private chat with the poster, and you can message anyone who follows you or works with you on a bounty. New messages ring the bell and send one email, without the message text. Messages that mention a wallet address or paying outside FlowFi show a warning.
 
-**Studio, built around launching.** The page now leads with the launch engine (create, review, launch with your passkey) and your creator dashboard. How a launch works, the fee split and what the $19 launch includes open in one guide. Creators earn 48% of every trading fee on their token, paid to their wallet.
+**Studio, built around launching.** The page now leads with the launch engine (create, review, launch with your passkey) and your creator dashboard. How a launch works, the fee split and what the $19 launch includes open in one guide. Creators keep 100% of the creator reward on every trade of their token, paid to their wallet.
 
 **A clearer chart.** Large trades show as B or S on their candle. Smart-money trades are gold with a star; tap any dot for the size, time, price and links to the wallet and the transaction.
 

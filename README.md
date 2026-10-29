@@ -12,7 +12,7 @@ FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then fi
 - **Terminal:** a chart-first workspace. Price or market cap, the exact point where FlowFi caught a token, large trades on the candles, and **Quick Mode** for one-tap buys and sells.
 - **Results:** every token FlowFi caught, measured from the first catch, with the peak and where it is now.
 - **Network:** work profiles, follows and private messages. Hire people with **FlowFi Pay**, or post a **Bounty** and pick the best bid.
-- **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in. Creators earn 48% of every trading fee.
+- **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in. Creators keep 100% of the creator reward on every trade.
 - **Wallet:** your FlowFi wallet. Your keys stay yours; withdrawals need your passkey and an email code.
 - **Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, a private balance, instant Early Radar alerts and Pro charts. **Live now, 3 days free.**
 
