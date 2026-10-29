@@ -3,6 +3,33 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-10-29 — Private sends, the first Insight Contest, and a sharper Perps terminal
+
+**Send money privately.** Pro members can now send USDC from their private balance to another member, just by their FlowFi handle. Nothing on chain links the sender and the receiver. The receiver taps **Receive** to add it to their own private balance. Every send is approved with your passkey.
+
+**The first Insight Contest is live until November 5.** Post an Insight on a token you hold. The biggest move after you post wins **$100 USDC + 3 months of Pro**, with a month of Pro for second and third. The token has to still be trading at the end. Standings update live at [flowfiengine.app/contest](https://flowfiengine.app/contest).
+
+**Insights now need skin in the game.** To post an Insight on a token, your FlowFi wallet must hold at least **$5** of it. When you call it, you hold it.
+
+**A sharper Perps terminal**
+
+- A market bar with the mark price, 1h and 24h moves, volume, open interest split long and short, and max leverage. It reads cleanly on phones too.
+- **Take profit and stop loss your way:** set them by price, by percent or by the dollar result you want. See the result, the distance and your risk to reward before you confirm, move your stop to break-even in one tap, and edit a target by typing. Lines on the chart show the result at that price.
+- A **PnL calculator**, your return on collateral, size shown in coin, an estimated buy and sell pressure pane, and drawing tools on the side of the chart with a one-tap snapshot.
+
+**Also new**
+
+- **Every token** now shows a real price history on each card, and each token's page has a full chart and the key facts at a glance.
+- **A clearer leaderboard:** no more cutoff. A podium for the top three, your own rank, and how to climb.
+- **Faster charts:** candles refresh up to four times faster and recent trades update every 10 seconds.
+- **Telegram recaps** now come with the top catch's card as a picture.
+- **FLUX** is now a round glowing button, and **How LIVE works** is a short animated guide in four steps.
+- **Safety:** FlowFi runs no third-party scripts, and your browser now refuses any script that doesn't come from FlowFi. Withdrawals still need your passkey and an email code.
+
+**Launch offer extended:** your first 30 days of Pro are **$19** until **November 30**. Pro starts with 3 days free.
+
+**Availability:** everything above is live now. Leverage trading can lose your whole collateral. Contest rules are on the contest page. Nothing here is financial advice.
+
 ## 2026-10-28 — FlowFi Pro is live: Perps, a trading seat, a privacy layer and a 3-day free trial
 
 **FlowFi Pro is open to everyone.** One membership adds:

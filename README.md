@@ -14,11 +14,11 @@ FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then fi
 - **Network:** work profiles, follows and private messages. Hire people with **FlowFi Pay**, or post a **Bounty** and pick the best bid.
 - **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in. Creators keep 100% of the creator reward on every trade.
 - **Wallet:** your FlowFi wallet. Your keys stay yours; withdrawals need your passkey and an email code.
-- **Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, a private balance, instant Early Radar alerts and Pro charts. **Live now, 3 days free.**
+- **Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, a private balance with private sends to other members, instant Early Radar alerts and Pro charts. **Live now, 3 days free.**
 
 ## Latest update
 
-**October 28:** **FlowFi Pro is live.** Perps on SOL, ETH and BTC with take profit and stop loss you drag on the chart, a seat in the Trading Beta at the 0.50% Pro fee, a privacy layer, instant Early Radar alerts and Pro charts. Start 3 days free with one tap; launch week, your first 30 days are $19 until October 31. Read the [development log](DEVLOG.md).
+**October 29:** **Send money privately** to another member by handle, with no on-chain link between you. The first **Insight Contest** is live until November 5: hold a token, post your call, and the biggest move wins $100 USDC + 3 months of Pro. Perps gets a market bar, take profit and stop loss by price, percent or dollars, and a PnL calculator. Pro's $19 launch offer now runs until November 30. Read the [development log](DEVLOG.md).
 
 ## Follow along
 
