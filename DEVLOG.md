@@ -3,6 +3,31 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-11-02 — $FLOWFI is live, the dev buy is locked, and the Private room opens
+
+**$FLOWFI launched on FlowFi's own launchpad.** Contract address: `5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow`. The official address is always shown in the FlowFi header; trust no other.
+
+- **Pay with $FLOWFI:** FLUX credits, FlowFi Verified reviews and Studio launches, plus **20% off FlowFi Pro** when you pay in $FLOWFI.
+- **Burn and rewards:** every $FLOWFI payment burns **50%** and sends **50%** to holders. Holder rewards are paid out every hour, in proportion to what you hold. Nothing to claim and nothing to connect.
+- **No mint, no freeze:** the token can't be minted further or frozen.
+
+**The dev buy is locked.** 36,092,730 $FLOWFI are locked until **January 31, 2027**, then release in full. Nobody can cancel, move, top up or change the lock, not even the founder. [Verify it on-chain](https://app.streamflow.finance/contract/solana/mainnet/C4T8EgFLJ7HeZDD7YnMqYvVnjX5aZND6T5ZFfkN3U7AW).
+
+**The Private room** (formerly the privacy layer). Private USDC and USDT, encrypted on Solana and revealed only with your passkey, with private sends to any member. You can also buy gold, Bitcoin, Tesla, the S&P 500 and top Solana tokens right in the room today; making those private is coming next. Real logos for every holding, and a refreshed premium design.
+
+**Sign in with your passkey.** Accounts can now sign in with a passkey (Face ID or fingerprint), no password needed. Members without one are guided to add it.
+
+**A guided tour for visitors.** Visitors can explore everything in FlowFi. Anything that needs an account explains what it does and brings you straight back after you sign up.
+
+**Also new**
+
+- A faster Terminal chart that shows full history from the first second, and a calmer, structured LIVE map.
+- A Security link in the footer, a GitHub button on projects that list one, and shareable bounty cards.
+- Trading settings now allow up to 15% slippage for fast-moving new tokens (1% by default).
+
+**Availability:** everything above is live now, except private gold, Bitcoin and stocks, which open next. Tokenized stocks are issued by third parties and aren't available in every country. Nothing here is financial advice.
+
+
 ## 2026-10-29 — Private sends, the first Insight Contest, and a sharper Perps terminal
 
 **Send money privately.** Pro members can now send USDC from their private balance to another member, just by their FlowFi handle. Nothing on chain links the sender and the receiver. The receiver taps **Receive** to add it to their own private balance. Every send is approved with your passkey.
