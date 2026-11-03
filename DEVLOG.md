@@ -3,6 +3,36 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-11-03 — 4.42% of supply locked, a sharper Early Radar, FLUX practice trades and a new Pro dashboard
+
+**More $FLOWFI locked.** 44,217,263 $FLOWFI, **4.42% of supply**, is now locked in three locks that release on January 31 and February 1, 2027. Nobody can cancel, move, top up or change them, not even the founder. The **$FLOWFI card** on the home page now shows the locked supply live, and updates on its own when more is locked. Verify each lock on-chain: [lock 1](https://app.streamflow.finance/contract/solana/mainnet/C4T8EgFLJ7HeZDD7YnMqYvVnjX5aZND6T5ZFfkN3U7AW) · [lock 2](https://app.streamflow.finance/contract/solana/mainnet/DzuQXXzMtF8huN4q7ZRBzQcJXkCCBwkU9wRsPb2wzfkG) · [lock 3](https://app.streamflow.finance/contract/solana/mainnet/DMWqhfeeFiFZGUoys7dEe5LLeq8kuTGs2xhCFc12BtCa).
+
+**A sharper Early Radar.** FlowFi's intelligence now holds back tokens that have already run too hot, so more of what you see is just getting started. Tokens getting a second wind go to the top of Early Radar with a **Waking up** badge.
+
+**FLUX trades on paper, in public.** Every time FlowFi's intelligence picks a token, FLUX opens a $100 practice trade at the real price and closes it by rules fixed in advance. Every trade, win or loss, is on the public record after fees at [flowfiengine.app/flux/practice](https://flowfiengine.app/flux/practice). No real money is used.
+
+**A new Pro dashboard.**
+
+- **Your positions:** live profit and loss on every token you hold, FlowFi's read on each one, safety warnings, and one-tap price alerts.
+- **Your alerts and how they ran:** every Early Radar alert you received, with its peak and where it is now.
+- **Live signals:** tokens waking up right now, and FLUX practice trades as they open and close.
+- **Your week:** a card with your results, ready to share on X.
+- **What Pro caught this week:** the record of every Early Radar alert from the last 7 days, now on the Pro page.
+
+**FLUX Pro, Alerts and Filters, redesigned.** Pick a token and watch FLUX read it, then see the Decision Lens as a ring: what lines up and what to watch. Alerts and Filters now preview, live, what your settings would show.
+
+**Also new**
+
+- **Pay for Pro from any Solana wallet**, not only your FlowFi wallet.
+- **A daily catch card** at [flowfiengine.app/results/daily](https://flowfiengine.app/results/daily): what FlowFi caught in the last 24 hours, and how high it went.
+- **Insights show their results:** each shared Insight now shows the move since it was posted and its best move.
+- The Terminal shows the live on-chain holder count for $FLOWFI, a cleaner header, and an invite to enter the Insight Contest after a buy.
+
+**Insight Contest:** the first contest ends **Thursday, November 5 at 10:55 AM ET**. Hold $5+ of a token, post your call on its chart; the biggest move after posting wins $100 USDC + 3 months of Pro.
+
+**Availability:** everything above is live now. Practice trades are paper only. Nothing here is financial advice.
+
+
 ## 2026-11-02 — $FLOWFI is live, the dev buy is locked, and the Private room opens
 
 **$FLOWFI launched on FlowFi's own launchpad.** Contract address: `5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow`. The official address is always shown in the FlowFi header; trust no other.
