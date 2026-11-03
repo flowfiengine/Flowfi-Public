@@ -19,7 +19,7 @@ FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then fi
 
 ## Latest update
 
-**November 2:** **$FLOWFI is live.** CA `5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow`. Pay for FlowFi services in $FLOWFI and get 20% off Pro; every $FLOWFI payment burns 50% and sends 50% to holders, paid out every hour. The dev buy is locked until January 31, 2027 ([verify the lock](https://app.streamflow.finance/contract/solana/mainnet/C4T8EgFLJ7HeZDD7YnMqYvVnjX5aZND6T5ZFfkN3U7AW)). Also new: the **Private room**, sign-in with a passkey, and a guided tour for visitors. Read the [development log](DEVLOG.md).
+**November 3:** **4.42% of $FLOWFI's supply is now locked** into 2027, shown live on the $FLOWFI card. Early Radar now holds back tokens that already ran hot and flags tokens **Waking up**. **FLUX trades on paper, in public**, with every result on the record. Pro gets a new dashboard: your positions, your alerts and how they ran, live signals and a weekly card to share. Pro can now be paid from any Solana wallet. Read the [development log](DEVLOG.md).
 
 ## Follow along
 
