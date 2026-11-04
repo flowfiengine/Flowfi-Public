@@ -2,6 +2,9 @@
 
 Every morning we check FlowFi for threats and new security updates, and post the result here. Newest first. You can also read it at flowfiengine.app/security.
 
+## 2026-11-04 — All clear
+Daily checks ran this morning and found no incidents. Your wallet and account protections are working as normal. People pretending to be support staff are common in crypto chats right now, so remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
+
 ## 2026-11-03 — All clear
 Daily checks ran this morning and again this evening and found no incidents. Your wallet and account protections are working as normal. Fake job offers, refund messages and support accounts are common right now, so remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
 
