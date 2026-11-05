@@ -2,6 +2,9 @@
 
 Every morning we check FlowFi for threats and new security updates, and post the result here. Newest first. You can also read it at flowfiengine.app/security.
 
+## 2026-11-05 — All clear
+Daily checks ran this morning and found no incidents. Your wallet and account protections are working as normal. Fake copies of wallet websites are going around, so check that you are on flowfiengine.app before you sign in, and remember that FlowFi will never ask for your recovery phrase or private key.
+
 ## 2026-11-04 — All clear
 Daily checks ran this morning and again this evening and found no incidents. Your wallet and account protections are working as normal. Keep your phone and browser up to date, and remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
 
