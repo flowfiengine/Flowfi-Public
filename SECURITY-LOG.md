@@ -2,11 +2,8 @@
 
 Every morning we check FlowFi for threats and new security updates, and post the result here. Newest first. You can also read it at flowfiengine.app/security.
 
-## 2026-11-09 — All clear
-Daily checks ran this morning and found no incidents. Your wallet and account protections are working as normal. If someone messages you about a refund or asks you to re-verify your account, ignore it: FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
-
 ## 2026-11-08 — All clear
-Daily checks ran this morning and found no incidents. Your wallet and account protections are working as normal. Fake wallet recovery and refund messages are still going around, so ignore anyone who offers to help move your funds, and remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
+Daily checks ran this morning and again this evening and found no incidents. Your wallet and account protections are working as normal. If someone messages you about a refund, a wallet rescue or asks you to re-verify your account, ignore it: FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
 
 ## 2026-11-07 — All clear
 Daily checks ran this morning and again this evening and found no incidents. Your wallet and account protections are working as normal. Fake wallet rescue offers are going around this week, so ignore anyone who messages you about moving your funds, and remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
