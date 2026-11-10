@@ -2,6 +2,9 @@
 
 Every morning we check FlowFi for threats and new security updates, and post the result here. Newest first. You can also read it at flowfiengine.app/security.
 
+## 2026-11-10 — All clear
+Daily checks ran this morning and found no incidents. Your wallet and account protections are working as normal. Wallet drainers often hide behind fake airdrop and "claim" links during busy market days, so never sign a transaction from a link you didn't expect, and remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
+
 ## 2026-11-09 — All clear
 Daily checks ran this morning and found no incidents. Your wallet and account protections are working as normal. Fake support messages and look-alike sites are still common, so remember that FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
 
