@@ -15,11 +15,11 @@ FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then fi
 - **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in. Creators keep 100% of the creator reward on every trade.
 - **$FLOWFI:** the token that powers FlowFi. CA `5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow`.
 - **Wallet:** your FlowFi wallet. Your keys stay yours; withdrawals need your passkey and an email code.
-- **Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, the **Private room** (private USDC & USDT sealed with your passkey, with private sends to other members), instant Early Radar alerts and Pro charts. **Live now, 3 days free.**
+- **Pro:** Perps on SOL, ETH and BTC, the **Private room** (private USDC & USDT sealed with your passkey, with private sends to other members), instant Early Radar alerts and Pro charts. **Live now for $FLOWFI holders: hold $FLOWFI and Pro is yours.**
 
 ## Latest update
 
-**November 3:** **4.42% of $FLOWFI's supply is now locked** into 2027, shown live on the $FLOWFI card. Early Radar now holds back tokens that already ran hot and flags tokens **Waking up**. **FLUX trades on paper, in public**, with every result on the record. Pro gets a new dashboard: your positions, your alerts and how they ran, live signals and a weekly card to share. Pro can now be paid from any Solana wallet. Read the [development log](DEVLOG.md).
+**November 10:** **Hold $FLOWFI and Pro is yours** (Pro, Pro+ and Pro Elite). **Wheel V3** pays the top 100 holders, straight to their wallets. **LIVE Map V2** is out for everyone, **trading is open to every member**, and FlowFi now speaks **5 languages**. The Terminal is now a board for the whole Solana market, and **Studio** and **FlowFi Verified** are open. Read the [development log](DEVLOG.md).
 
 ## Follow along
 

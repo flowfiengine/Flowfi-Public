@@ -3,6 +3,34 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-11-10 — Pro for $FLOWFI holders, Wheel V3, LIVE Map V2, trading for everyone and FlowFi in 5 languages
+
+**Hold $FLOWFI and Pro is yours.** Pro now comes in three tiers, **Pro, Pro+ and Pro Elite**, unlocked by the $FLOWFI you hold. Hold for 3 days and it is yours: no price, no trial, no checkout. Free Pro for everyone ended on November 7; holders kept it.
+
+**The FlowFi Wheel V3.** Wheel payouts now go **100% to the top 100 holders**, counted on what each wallet holds. Payouts land straight in your wallet: nothing to claim. Amounts change with every payout and are never guaranteed.
+
+**LIVE Map V2.** A new LIVE map for everyone: tokens move as planets inside their own theme, with zoom and pinch anywhere. On desktop it replaces the old map.
+
+**Trading is open to everyone.** Every member can now trade in the Terminal. No seat or leaderboard rank needed.
+
+**FlowFi speaks 5 languages.** The website is now in **English, French, Spanish, Indonesian and Simplified Chinese**. FLUX answers in your language, on the website and in Telegram.
+
+**A new Terminal: Solana Markets.** The Terminal is now a board for the whole Solana market: trending tokens, large caps, and FlowFi Verified projects on top. LIVE stays FlowFi's early-catch radar.
+
+**Studio and FlowFi Verified are open.** Launch a project with Studio, or get an existing project verified at [flowfiengine.app/verify](https://flowfiengine.app/verify). They are two separate products. Studio launches can now pair with USDC and tokenized stocks, not only SOL.
+
+**50% off when you pay in $FLOWFI**, for a limited time, on every FlowFi service.
+
+**Also new**
+
+- **Reviews:** members can review FlowFi on a public page.
+- **Alerts:** a Trade button on every alert, and Pro members can choose their own bundle cap.
+- **Phones:** the Terminal is back in the top bar.
+- The Telegram group gets the security report twice a day, with a link to [flowfiengine.app/security](https://flowfiengine.app/security).
+
+**Availability:** everything above is live now. Always do your own research. Nothing here is financial advice.
+
+
 ## 2026-11-03 — 4.42% of supply locked, a sharper Early Radar, FLUX practice trades and a new Pro dashboard
 
 **More $FLOWFI locked.** 44,217,263 $FLOWFI, **4.42% of supply**, is now locked in three locks that release on January 31 and February 1, 2027. Nobody can cancel, move, top up or change them, not even the founder. The **$FLOWFI card** on the home page now shows the locked supply live, and updates on its own when more is locked. Verify each lock on-chain: [lock 1](https://app.streamflow.finance/contract/solana/mainnet/C4T8EgFLJ7HeZDD7YnMqYvVnjX5aZND6T5ZFfkN3U7AW) · [lock 2](https://app.streamflow.finance/contract/solana/mainnet/DzuQXXzMtF8huN4q7ZRBzQcJXkCCBwkU9wRsPb2wzfkG) · [lock 3](https://app.streamflow.finance/contract/solana/mainnet/DMWqhfeeFiFZGUoys7dEe5LLeq8kuTGs2xhCFc12BtCa).
