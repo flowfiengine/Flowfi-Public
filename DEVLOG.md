@@ -3,6 +3,28 @@
 Selected updates about product progress and direction. This journal is written for the public; it is not a mirror of private commits or operational work.
 
 
+## 2026-11-16 — FlowFi on iPhone, three markets, and a stronger Firewall
+
+**FlowFi is on the App Store.** The iPhone app went live on November 12 in 145 countries. Version 1.0.3 is on its way: the app opens with a living FlowFi logo, FLUX greets you and follows you on every page, Top LIVE moves in real time, and you can pick your language anytime. Android is in closed testing.
+
+**Three markets, one intelligence.** FlowFi now reads **Solana, Robinhood Chain and BSC**, each with its own LIVE map and its own record on [Results](https://flowfiengine.app/results). Arbitrum and Base are in preview.
+
+**The FlowFi Firewall.** Every project passes the Firewall before it reaches Early Radar or Validated: 11 published checks on its contract and first trades. One failed check keeps it out. On EVM chains it now also blocks:
+
+- **Pulled liquidity:** a pool that lost almost all of its liquidity.
+- **Serial ruggers:** a launch from a creator, or a contract holding the liquidity, whose past projects were pulled. On BSC one such contract had pulled 108 of the 109 projects it launched; its next launch is now blocked before the pull.
+
+**Rules graded by the record.** On Robinhood Chain, two holder checks were keeping out projects that did as well as the ones shown, so they now warn instead of block. On Solana, Early Radar shows more of the young projects that pass every check.
+
+**Kept out lately.** A new card on the LIVE list shows what the Firewall blocked lately, on every open market, and why.
+
+**A new website.** flowfiengine.app now explains FlowFi's intelligence in four steps (Observe, Understand, Validate, Learn), publishes the Firewall checks, and is available in English, French, Spanish, Portuguese, Indonesian and Simplified Chinese. The **Intelligence API** is in early access.
+
+**The record, November 16:** 6,474 caught → 2,353 went LIVE → 1,062 went 2×+ → 389 went 5×+, across Solana, Robinhood Chain and BSC, measured from FlowFi's first detection.
+
+**Availability:** everything above is live now unless marked preview or testing. Nothing here is financial advice. Always DYOR.
+
+
 ## 2026-11-03 — 4.42% of supply locked, a sharper Early Radar, FLUX practice trades and a new Pro dashboard
 
 **More $FLOWFI locked.** 44,217,263 $FLOWFI, **4.42% of supply**, is now locked in three locks that release on January 31 and February 1, 2027. Nobody can cancel, move, top up or change them, not even the founder. The **$FLOWFI card** on the home page now shows the locked supply live, and updates on its own when more is locked. Verify each lock on-chain: [lock 1](https://app.streamflow.finance/contract/solana/mainnet/C4T8EgFLJ7HeZDD7YnMqYvVnjX5aZND6T5ZFfkN3U7AW) · [lock 2](https://app.streamflow.finance/contract/solana/mainnet/DzuQXXzMtF8huN4q7ZRBzQcJXkCCBwkU9wRsPb2wzfkG) · [lock 3](https://app.streamflow.finance/contract/solana/mainnet/DMWqhfeeFiFZGUoys7dEe5LLeq8kuTGs2xhCFc12BtCa).

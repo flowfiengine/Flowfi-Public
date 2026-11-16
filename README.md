@@ -2,29 +2,46 @@
 
 # FlowFi
 
-**Intelligence in the back. Clarity in the front.**
+**Attention is everywhere. Evidence is what matters.**
 
-FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then find the people to build with, pay them and launch, all in one place.
+FlowFi is an intelligence engine for onchain markets. It connects attention, capital flow and evidence across blockchain ecosystems, decides which projects deserve a closer look, keeps the rugs out, and grades every call in public.
 
-## The platform
+*Intelligence in the back. Clarity in the front.*
 
-- **Live:** the Sphere maps where attention and trading activity are moving right now. **Early Radar** surfaces brand-new tokens before they are validated.
-- **Terminal:** a chart-first workspace. Price or market cap, the exact point where FlowFi caught a token, large trades on the candles, and **Quick Mode** for one-tap buys and sells.
-- **Results:** every token FlowFi caught, measured from the first catch, with the peak and where it is now.
-- **Network:** work profiles, follows and private messages. Hire people with **FlowFi Pay**, or post a **Bounty** and pick the best bid.
-- **Studio:** create your project and launch your token for **$19**, with review before you pay, the FlowFi Verified badge and launch protection built in. Creators keep 100% of the creator reward on every trade.
-- **$FLOWFI:** the token that powers FlowFi. CA `5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow`.
-- **Wallet:** your FlowFi wallet. Your keys stay yours; withdrawals need your passkey and an email code.
-- **Pro:** Perps on SOL, ETH and BTC, a seat in the Trading Beta at a 0.50% fee, the **Private room** (private USDC & USDT sealed with your passkey, with private sends to other members), instant Early Radar alerts and Pro charts. **Live now, 3 days free.**
+## How it works
+
+1. **Observe.** FlowFi reads new pools on **Solana, BSC and Robinhood Chain** as they open: price, liquidity, volume, buyers and age.
+2. **Understand.** It matches X posts to the projects it tracks and counts people, not posts. A project glows only when verified attention and trading line up.
+3. **Validate.** The **FlowFi Firewall** reads each project's contract and first trades: 11 published checks, from bundled launches, snipers and dev-funded insiders to wash trading and stairway bots, and on EVM chains pulled liquidity and **serial ruggers** (creators whose past projects were pulled). One failed check keeps a project out.
+4. **Learn.** Every catch's price is recorded from FlowFi's first detection, at +1h, +6h, +24h and +7d. The same record grades FlowFi's own rules, so each one is kept, tightened or loosened on evidence.
+
+What comes out is a short list in two stages: **Early Radar** (young projects with fresh activity) and **Validated** (cleared every check, on the LIVE map).
+
+## The record
+
+Every call, graded in public at [flowfiengine.app/results](https://flowfiengine.app/results). As of November 16, 2026, across Solana, Robinhood Chain and BSC:
+
+**6,474 caught → 2,353 went LIVE → 1,062 went 2×+ → 389 went 5×+**, each measured from the price at FlowFi's first detection. Misses stay on the record beside the wins.
+
+## Where to use it
+
+- **Web:** [flowfiengine.app](https://flowfiengine.app), in English, French, Spanish, Portuguese, Indonesian and Simplified Chinese.
+- **iPhone:** [FlowFi on the App Store](https://apps.apple.com/app/id6830928505).
+- **Android:** in closed testing. Join the waitlist on the website.
+- **Intelligence API:** the same intelligence for bots, agents and dashboards. Early access on the website.
+
+Inside the **Terminal:** the LIVE map, charts, alerts (Telegram and app push), **FLUX** (FlowFi's assistant, with voice), the FlowFi Wallet and FlowFi Pro.
+
+**$FLOWFI**, the token that powers FlowFi, on Solana. CA `5pQPh2EBz3tSUcqig9jGY73u4hNrhiiiLtYQSHaqFLow`. Pro is open to $FLOWFI holders or by card.
 
 ## Latest update
 
-**November 3:** **4.42% of $FLOWFI's supply is now locked** into 2027, shown live on the $FLOWFI card. Early Radar now holds back tokens that already ran hot and flags tokens **Waking up**. **FLUX trades on paper, in public**, with every result on the record. Pro gets a new dashboard: your positions, your alerts and how they ran, live signals and a weekly card to share. Pro can now be paid from any Solana wallet. Read the [development log](DEVLOG.md).
+**November 16:** BSC is open to everyone, with the Firewall blocking pulled liquidity and serial ruggers. A new **Kept out lately** card shows what the Firewall blocked. The iPhone app's version 1.0.3 is on its way, with a living opening, FLUX on every page and the language of your choice. Read the [development log](DEVLOG.md).
 
 ## Follow along
 
 - [Vision](PRODUCT.md) · [Roadmap](ROADMAP.md) · [Development log](DEVLOG.md) · [Showcase](SHOWCASE.md)
-- [Website updates](https://flowfiengine.app/updates)
+- [Website updates](https://flowfiengine.app/updates) · [X](https://x.com/FlowFiEngine)
 - Ideas and feedback: open an [Issue](https://github.com/flowfiengine/Flowfi-Public/issues) (see [CONTRIBUTING.md](CONTRIBUTING.md)). Never post credentials, recovery phrases or wallet details.
 
 **Star** the repo to support FlowFi, or **Watch** it for new updates.
@@ -33,6 +50,6 @@ FlowFi finds Solana tokens early, shows you why, and lets you act on it. Then fi
 
 This repository is FlowFi's public development journal. The application and its engineering stay private, and nothing here is open source or a licence to use the brand.
 
-FlowFi is a research and trading tool, not financial advice. Crypto is volatile; only trade what you can afford to lose.
+FlowFi provides intelligence, not financial advice. Crypto is volatile; always DYOR and only trade what you can afford to lose.
 
 © 2026 FlowFi. All rights reserved.

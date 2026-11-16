@@ -1,53 +1,42 @@
 # The FlowFi vision
 
-**Follow attention. Understand the context. Discover the story.**
+**Attention is everywhere. Evidence is what matters.**
 
-Crypto moves quickly, but the information people need is scattered across market screens, social conversations, individual project pages, and constantly changing narratives. It can be difficult to tell whether something is genuinely gaining traction—or simply generating noise.
+Onchain markets give everyone the same flood of data and leave the reading to you. Thousands of projects launch every day, across more and more chains, and most of what a trader sees is bundled, wash-traded or about to be pulled.
 
-FlowFi is being built to make that discovery process clearer.
+FlowFi does the reading: it makes the call, shows why, and proves it afterwards.
 
-## What we're working toward
+## What FlowFi is
 
-Instead of asking people to jump between disconnected screens, FlowFi aims to bring relevant attention and market context into an intuitive visual experience.
+FlowFi connects attention, market activity and evidence across blockchain ecosystems, transforming fragmented signals into structured intelligence. Its first markets were built on Solana; it now reads Solana, BSC and Robinhood Chain, with more ecosystems in preview.
 
-### Attention Sphere
+**Noise → Clarity → Action.**
 
-An interactive way to explore projects and see how attention changes. The ambition is to turn discovery into something you can *see and explore*, rather than another wall of rankings.
+- **Noise:** thousands of projects, fragmented signals and an overwhelming flow of market activity.
+- **Clarity:** FlowFi connects attention, capital flow and evidence to identify what deserves a closer look.
+- **Action:** intelligence turned into informed decisions through the Terminal, alerts, FLUX and the Intelligence API.
 
-### Solana Market Sphere and LIVE discovery
+## The intelligence, in four steps
 
-Our Solana-first LIVE experience places a central Solana market hub among project orbs. Solid connections identify LIVE-validated projects with observed trading activity; dashed connections distinguish provisional Early Radar candidates. A link describes recorded activity, **not** money moving from Solana into a project. When observations are delayed, the experience can retain genuine recorded context with clear freshness information.
+1. **Observe** what's happening across the market, as pools open.
+2. **Understand** it: connect market activity with social attention, counting people rather than posts.
+3. **Validate** it with the FlowFi Firewall: one failed check keeps a project out.
+4. **Learn** from it: every call is recorded from first detection and graded in public, and the record grades FlowFi's own rules.
 
-### Free Capital Intelligence
+The fourth step is what makes FlowFi intelligence rather than a dashboard. A rule that blocks projects that do as well as the ones shown is loosened; a pattern the record shows, such as pools drained within the hour, becomes a new rule.
 
-Free Capital Intelligence brings project-level trading volume and available buy/sell transaction counts into the research experience. The initial view covers observed activity on a project's primary trading pair. Transaction counts and total volume are **not** evidence of separate buy-dollar or sell-dollar totals, net capital inflows, or activity on every venue. Individual wallet monitoring belongs to a later advanced experience rather than being required for Free discovery.
+## Our principles
 
-### Clearer explanations
-
-We want to put observations in context, make uncertainty visible, and help people research rather than blindly follow a signal.
-
-### FLUX and disciplined research (in development)
-
-FLUX is evolving toward a more useful research assistant for people who want to evaluate opportunities thoughtfully. We're exploring **Low, Medium and High** paper-only risk profiles with an important shared principle: **sometimes the right decision is not to trade**. Before considering any optional automated action, research must account for fresh evidence, costs, liquidity, potential exits, missing observations and explicit user control. These experimental profiles are **not available automated trading services**, guaranteed loss limits or verified profitable strategies.
-
-## Our product principles
-
-- **Clarity over noise.** Highlight what matters without making every change look urgent.
-- **Context over hype.** Separate observations from interpretation and avoid promises about price.
-- **Visual exploration.** Make complex activity approachable through a thoughtful interface.
-- **Responsible progress.** Share genuine, public-facing milestones rather than imply that planned features are already released.
-- **Community feedback.** Let early users help us understand which questions the product should answer first.
-
-## Where we are today
-
-FlowFi is in active development. **LIVE** and **Results** are evolving public experiences, while we refine a chart-first workflow that brings research context closer to the action. A limited internal wallet transfer test has reached confirmed completion, but **this is not an announcement of public trading execution or unrestricted wallet availability**. Social observations and other evidence can be incomplete or delayed, and we label those limits rather than filling gaps with claims.
-
-See the [roadmap](ROADMAP.md) for our public priorities and the [development log](DEVLOG.md) for selected updates.
+- **Show what matters, not everything.** A short list beats a wall of tickers.
+- **Evidence in the front.** Every call is graded in public, wins and misses side by side.
+- **Context over hype.** Observations are labelled as observations; FlowFi never promises price.
+- **One experience, one platform.** Every market reads the same way, with the same sections.
+- **Community feedback.** Early users help decide which questions FlowFi answers next.
 
 ## Join the journey
 
-Follow this repository, explore the [public showcase](SHOWCASE.md), and [tell us what you'd like to discover](https://github.com/flowfiengine/Flowfi-Public/issues). We read product feedback and use it to help shape priorities.
+Follow this repository, explore the [public showcase](SHOWCASE.md), and [tell us what you'd like FlowFi to read next](https://github.com/flowfiengine/Flowfi-Public/issues).
 
-FlowFi is for informational and research purposes only; it is not investment advice. The application source and proprietary engineering remain private.
+FlowFi is for informational and research purposes only; it is not investment advice. Always DYOR. The application source and proprietary engineering remain private.
 
 © 2026 FlowFi. All rights reserved.
