@@ -1,0 +1,59 @@
+{
+  "name": "flowfi",
+  "version": "0.1.1",
+  "description": "Official TypeScript/JavaScript client for the FlowFi Intelligence API: Validated, Early Radar, Results, one token, market and status.",
+  "keywords": [
+    "flowfi",
+    "solana",
+    "crypto",
+    "api",
+    "sdk",
+    "market-intelligence",
+    "early-radar"
+  ],
+  "homepage": "https://flowfiengine.app/developers",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flowfiengine/flowfi-public.git",
+    "directory": "sdk/js"
+  },
+  "bugs": {
+    "url": "https://github.com/flowfiengine/flowfi-public/issues"
+  },
+  "license": "MIT",
+  "author": "FlowFi",
+  "type": "module",
+  "main": "./dist/cjs/index.js",
+  "module": "./dist/esm/index.js",
+  "types": "./dist/esm/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/esm/index.d.ts",
+        "default": "./dist/esm/index.js"
+      },
+      "require": {
+        "types": "./dist/cjs/index.d.ts",
+        "default": "./dist/cjs/index.js"
+      }
+    }
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "sideEffects": false,
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "node scripts/clean.mjs && tsc -p tsconfig.json && tsc -p tsconfig.cjs.json && node scripts/cjs-package.mjs",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "npm run build && node --test test/*.test.mjs",
+    "prepublishOnly": "npm test"
+  },
+  "devDependencies": {
+    "typescript": "5.9.3"
+  }
+}
