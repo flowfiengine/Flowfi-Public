@@ -28,7 +28,8 @@ Every call, graded in public at [flowfiengine.app/results](https://flowfiengine.
 - **Web:** [flowfiengine.app](https://flowfiengine.app), in English, French, Spanish, Portuguese, Indonesian and Simplified Chinese.
 - **iPhone:** [FlowFi on the App Store](https://apps.apple.com/app/id6830928505).
 - **Android:** in closed testing. Join the waitlist on the website.
-- **Intelligence API:** the same intelligence for bots, agents and dashboards. Early access on the website.
+- **Intelligence API:** the same intelligence for bots, agents and dashboards. Docs and a free key at [flowfiengine.app/developers](https://flowfiengine.app/developers).
+- **JavaScript SDK:** `npm install flowfi` ([npm](https://www.npmjs.com/package/flowfi), [source](sdk/js)).
 
 Inside the **Terminal:** the LIVE map, charts, alerts (Telegram and app push), **FLUX** (FlowFi's assistant, with voice), the FlowFi Wallet and FlowFi Pro.
 

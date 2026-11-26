@@ -18,6 +18,6 @@ Thanks for following FlowFi. We welcome thoughtful product feedback, accessibili
 
 ## Scope of this repository
 
-This is a public development journal, not the FlowFi application source repository. We are not accepting application-code pull requests here. Documentation suggestions may be proposed via an Issue and incorporated after editorial and security review.
+This is a public development journal, not the FlowFi application source repository. We are not accepting application-code pull requests here. The one exception is the open-source JavaScript SDK in [`sdk/js`](sdk/js) (npm package [`flowfi`](https://www.npmjs.com/package/flowfi)): bug reports and small fixes for it are welcome. Documentation suggestions may be proposed via an Issue and incorporated after editorial and security review.
 
 The maintainers may close, edit, or remove material that is unsafe, off-topic, promotional, or outside the public repository's scope.
