@@ -2,6 +2,9 @@
 
 Every morning we check FlowFi for threats and new security updates, and post the result here. Newest first. You can also read it at flowfiengine.app/security.
 
+## 2026-11-26 — All clear
+Daily checks ran this morning and found no incidents affecting members' wallets or accounts, and no attacks on the website. Sign-in, payments and wallet protections are working as normal. Scammers are pushing fake trading bots and "connect your wallet to claim" links this week, so never paste your wallet details into a bot or sign a transaction from a link you didn't expect. FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
+
 ## 2026-11-25 — All clear
 Daily checks ran this morning and again this evening and found no incidents affecting members' wallets or accounts, and no attacks on the website. Sign-in, payments and wallet protections are working as normal. Fake "fix" and "update" downloads aimed at crypto users and builders are going around this week, so only install apps from the official App Store and never run a file or script someone sends you in a chat. FlowFi will never ask for your recovery phrase or private key, and our only site is flowfiengine.app.
 
