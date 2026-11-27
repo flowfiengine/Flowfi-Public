@@ -30,6 +30,7 @@ Every call, graded in public at [flowfiengine.app/results](https://flowfiengine.
 - **Android:** in closed testing. Join the waitlist on the website.
 - **Intelligence API:** the same intelligence for bots, agents and dashboards. Docs and a free key at [flowfiengine.app/developers](https://flowfiengine.app/developers).
 - **JavaScript SDK:** `npm install flowfi` ([npm](https://www.npmjs.com/package/flowfi), [source](sdk/js)).
+- **Guides:** [how to check a Solana token before you buy](https://flowfiengine.app/guides/check-a-solana-token-before-buying), [spot a bundled launch](https://flowfiengine.app/guides/spot-a-bundled-launch-on-solana) and [find new Solana tokens early](https://flowfiengine.app/guides/find-new-solana-tokens-early).
 
 Inside the **Terminal:** the LIVE map, charts, alerts (Telegram and app push), **FLUX** (FlowFi's assistant, with voice), the FlowFi Wallet and FlowFi Pro.
 
